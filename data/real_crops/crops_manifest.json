@@ -1,0 +1,1819 @@
+[
+  {
+    "file": "f001_001_orange_201x306_28x21.png",
+    "frame": "f001",
+    "idx": 1,
+    "color": "orange",
+    "display": "🟠 符文/工藝",
+    "bbox": [
+      191,
+      300,
+      20,
+      13
+    ],
+    "crop_size": [
+      28,
+      21
+    ],
+    "center": [
+      201,
+      306
+    ],
+    "padding": 4,
+    "contour_area": 165
+  },
+  {
+    "file": "f002_001_white_459x575_42x25.png",
+    "frame": "f002",
+    "idx": 1,
+    "color": "white",
+    "display": "⬜ 普通",
+    "bbox": [
+      442,
+      567,
+      34,
+      17
+    ],
+    "crop_size": [
+      42,
+      25
+    ],
+    "center": [
+      459,
+      575
+    ],
+    "padding": 4,
+    "contour_area": 476
+  },
+  {
+    "file": "f002_002_white_552x538_45x25.png",
+    "frame": "f002",
+    "idx": 2,
+    "color": "white",
+    "display": "⬜ 普通",
+    "bbox": [
+      534,
+      530,
+      37,
+      17
+    ],
+    "crop_size": [
+      45,
+      25
+    ],
+    "center": [
+      552,
+      538
+    ],
+    "padding": 4,
+    "contour_area": 467
+  },
+  {
+    "file": "f002_003_white_466x531_82x27.png",
+    "frame": "f002",
+    "idx": 3,
+    "color": "white",
+    "display": "⬜ 普通",
+    "bbox": [
+      429,
+      522,
+      74,
+      19
+    ],
+    "crop_size": [
+      82,
+      27
+    ],
+    "center": [
+      466,
+      531
+    ],
+    "padding": 4,
+    "contour_area": 1083
+  },
+  {
+    "file": "f002_004_white_506x508_78x26.png",
+    "frame": "f002",
+    "idx": 4,
+    "color": "white",
+    "display": "⬜ 普通",
+    "bbox": [
+      471,
+      499,
+      70,
+      18
+    ],
+    "crop_size": [
+      78,
+      26
+    ],
+    "center": [
+      506,
+      508
+    ],
+    "padding": 4,
+    "contour_area": 919
+  },
+  {
+    "file": "f002_005_white_433x508_63x26.png",
+    "frame": "f002",
+    "idx": 5,
+    "color": "white",
+    "display": "⬜ 普通",
+    "bbox": [
+      406,
+      499,
+      55,
+      18
+    ],
+    "crop_size": [
+      63,
+      26
+    ],
+    "center": [
+      433,
+      508
+    ],
+    "padding": 4,
+    "contour_area": 786
+  },
+  {
+    "file": "f002_006_white_548x465_142x30.png",
+    "frame": "f002",
+    "idx": 6,
+    "color": "white",
+    "display": "⬜ 普通",
+    "bbox": [
+      481,
+      454,
+      134,
+      22
+    ],
+    "crop_size": [
+      142,
+      30
+    ],
+    "center": [
+      548,
+      465
+    ],
+    "padding": 4,
+    "contour_area": 1860
+  },
+  {
+    "file": "f002_007_white_45x388_43x23.png",
+    "frame": "f002",
+    "idx": 7,
+    "color": "white",
+    "display": "⬜ 普通",
+    "bbox": [
+      28,
+      381,
+      35,
+      15
+    ],
+    "crop_size": [
+      43,
+      23
+    ],
+    "center": [
+      45,
+      388
+    ],
+    "padding": 4,
+    "contour_area": 368
+  },
+  {
+    "file": "f002_008_white_81x388_41x26.png",
+    "frame": "f002",
+    "idx": 8,
+    "color": "white",
+    "display": "⬜ 普通",
+    "bbox": [
+      65,
+      379,
+      33,
+      18
+    ],
+    "crop_size": [
+      41,
+      26
+    ],
+    "center": [
+      81,
+      388
+    ],
+    "padding": 4,
+    "contour_area": 515
+  },
+  {
+    "file": "f002_009_white_389x384_43x24.png",
+    "frame": "f002",
+    "idx": 9,
+    "color": "white",
+    "display": "⬜ 普通",
+    "bbox": [
+      372,
+      376,
+      35,
+      16
+    ],
+    "crop_size": [
+      43,
+      24
+    ],
+    "center": [
+      389,
+      384
+    ],
+    "padding": 4,
+    "contour_area": 336
+  },
+  {
+    "file": "f002_010_white_973x99_38x23.png",
+    "frame": "f002",
+    "idx": 10,
+    "color": "white",
+    "display": "⬜ 普通",
+    "bbox": [
+      958,
+      92,
+      30,
+      15
+    ],
+    "crop_size": [
+      38,
+      23
+    ],
+    "center": [
+      973,
+      99
+    ],
+    "padding": 4,
+    "contour_area": 356
+  },
+  {
+    "file": "f002_011_white_1007x99_45x26.png",
+    "frame": "f002",
+    "idx": 11,
+    "color": "white",
+    "display": "⬜ 普通",
+    "bbox": [
+      989,
+      90,
+      37,
+      18
+    ],
+    "crop_size": [
+      45,
+      26
+    ],
+    "center": [
+      1007,
+      99
+    ],
+    "padding": 4,
+    "contour_area": 548
+  },
+  {
+    "file": "f002_012_white_1099x67_43x23.png",
+    "frame": "f002",
+    "idx": 12,
+    "color": "white",
+    "display": "⬜ 普通",
+    "bbox": [
+      1082,
+      60,
+      35,
+      15
+    ],
+    "crop_size": [
+      43,
+      23
+    ],
+    "center": [
+      1099,
+      67
+    ],
+    "padding": 4,
+    "contour_area": 278
+  },
+  {
+    "file": "f002_013_white_984x67_62x26.png",
+    "frame": "f002",
+    "idx": 13,
+    "color": "white",
+    "display": "⬜ 普通",
+    "bbox": [
+      957,
+      58,
+      54,
+      18
+    ],
+    "crop_size": [
+      62,
+      26
+    ],
+    "center": [
+      984,
+      67
+    ],
+    "padding": 4,
+    "contour_area": 768
+  },
+  {
+    "file": "f002_014_white_1138x45_77x26.png",
+    "frame": "f002",
+    "idx": 14,
+    "color": "white",
+    "display": "⬜ 普通",
+    "bbox": [
+      1104,
+      36,
+      69,
+      18
+    ],
+    "crop_size": [
+      77,
+      26
+    ],
+    "center": [
+      1138,
+      45
+    ],
+    "padding": 4,
+    "contour_area": 1030
+  },
+  {
+    "file": "f002_015_white_1048x26_110x26.png",
+    "frame": "f002",
+    "idx": 15,
+    "color": "white",
+    "display": "⬜ 普通",
+    "bbox": [
+      997,
+      17,
+      102,
+      18
+    ],
+    "crop_size": [
+      110,
+      26
+    ],
+    "center": [
+      1048,
+      26
+    ],
+    "padding": 4,
+    "contour_area": 1498
+  },
+  {
+    "file": "f002_016_white_1086x8_63x11.png",
+    "frame": "f002",
+    "idx": 16,
+    "color": "white",
+    "display": "⬜ 普通",
+    "bbox": [
+      1059,
+      5,
+      55,
+      7
+    ],
+    "crop_size": [
+      63,
+      11
+    ],
+    "center": [
+      1086,
+      8
+    ],
+    "padding": 4,
+    "contour_area": 283
+  },
+  {
+    "file": "f002_017_white_1015x8_59x11.png",
+    "frame": "f002",
+    "idx": 17,
+    "color": "white",
+    "display": "⬜ 普通",
+    "bbox": [
+      990,
+      5,
+      51,
+      7
+    ],
+    "crop_size": [
+      59,
+      11
+    ],
+    "center": [
+      1015,
+      8
+    ],
+    "padding": 4,
+    "contour_area": 269
+  },
+  {
+    "file": "f002_018_white_965x8_53x11.png",
+    "frame": "f002",
+    "idx": 18,
+    "color": "white",
+    "display": "⬜ 普通",
+    "bbox": [
+      943,
+      5,
+      45,
+      7
+    ],
+    "crop_size": [
+      53,
+      11
+    ],
+    "center": [
+      965,
+      8
+    ],
+    "padding": 4,
+    "contour_area": 241
+  },
+  {
+    "file": "f002_019_blue_563x489_49x27.png",
+    "frame": "f002",
+    "idx": 19,
+    "color": "blue",
+    "display": "🔵 魔法",
+    "bbox": [
+      543,
+      480,
+      41,
+      19
+    ],
+    "crop_size": [
+      49,
+      27
+    ],
+    "center": [
+      563,
+      489
+    ],
+    "padding": 4,
+    "contour_area": 589
+  },
+  {
+    "file": "f002_020_blue_1067x49_40x26.png",
+    "frame": "f002",
+    "idx": 20,
+    "color": "blue",
+    "display": "🔵 魔法",
+    "bbox": [
+      1051,
+      40,
+      32,
+      18
+    ],
+    "crop_size": [
+      40,
+      26
+    ],
+    "center": [
+      1067,
+      49
+    ],
+    "padding": 4,
+    "contour_area": 470
+  },
+  {
+    "file": "f003_001_white_159x518_43x23.png",
+    "frame": "f003",
+    "idx": 1,
+    "color": "white",
+    "display": "⬜ 普通",
+    "bbox": [
+      142,
+      511,
+      35,
+      15
+    ],
+    "crop_size": [
+      43,
+      23
+    ],
+    "center": [
+      159,
+      518
+    ],
+    "padding": 4,
+    "contour_area": 267
+  },
+  {
+    "file": "f003_002_white_870x201_47x27.png",
+    "frame": "f003",
+    "idx": 2,
+    "color": "white",
+    "display": "⬜ 普通",
+    "bbox": [
+      851,
+      192,
+      39,
+      19
+    ],
+    "crop_size": [
+      47,
+      27
+    ],
+    "center": [
+      870,
+      201
+    ],
+    "padding": 4,
+    "contour_area": 571
+  },
+  {
+    "file": "f003_003_white_752x201_62x26.png",
+    "frame": "f003",
+    "idx": 3,
+    "color": "white",
+    "display": "⬜ 普通",
+    "bbox": [
+      725,
+      192,
+      54,
+      18
+    ],
+    "crop_size": [
+      62,
+      26
+    ],
+    "center": [
+      752,
+      201
+    ],
+    "padding": 4,
+    "contour_area": 781
+  },
+  {
+    "file": "f003_004_white_907x179_78x26.png",
+    "frame": "f003",
+    "idx": 4,
+    "color": "white",
+    "display": "⬜ 普通",
+    "bbox": [
+      872,
+      170,
+      70,
+      18
+    ],
+    "crop_size": [
+      78,
+      26
+    ],
+    "center": [
+      907,
+      179
+    ],
+    "padding": 4,
+    "contour_area": 985
+  },
+  {
+    "file": "f003_005_white_817x159_112x27.png",
+    "frame": "f003",
+    "idx": 5,
+    "color": "white",
+    "display": "⬜ 普通",
+    "bbox": [
+      765,
+      150,
+      104,
+      19
+    ],
+    "crop_size": [
+      112,
+      27
+    ],
+    "center": [
+      817,
+      159
+    ],
+    "padding": 4,
+    "contour_area": 1548
+  },
+  {
+    "file": "f003_006_white_856x138_63x26.png",
+    "frame": "f003",
+    "idx": 6,
+    "color": "white",
+    "display": "⬜ 普通",
+    "bbox": [
+      829,
+      129,
+      55,
+      18
+    ],
+    "crop_size": [
+      63,
+      26
+    ],
+    "center": [
+      856,
+      138
+    ],
+    "padding": 4,
+    "contour_area": 766
+  },
+  {
+    "file": "f003_007_white_760x136_112x27.png",
+    "frame": "f003",
+    "idx": 7,
+    "color": "white",
+    "display": "⬜ 普通",
+    "bbox": [
+      708,
+      127,
+      104,
+      19
+    ],
+    "crop_size": [
+      112,
+      27
+    ],
+    "center": [
+      760,
+      136
+    ],
+    "padding": 4,
+    "contour_area": 1476
+  },
+  {
+    "file": "f003_008_white_797x114_109x27.png",
+    "frame": "f003",
+    "idx": 8,
+    "color": "white",
+    "display": "⬜ 普通",
+    "bbox": [
+      747,
+      105,
+      101,
+      19
+    ],
+    "crop_size": [
+      109,
+      27
+    ],
+    "center": [
+      797,
+      114
+    ],
+    "padding": 4,
+    "contour_area": 1522
+  },
+  {
+    "file": "f003_009_white_796x68_108x26.png",
+    "frame": "f003",
+    "idx": 9,
+    "color": "white",
+    "display": "⬜ 普通",
+    "bbox": [
+      746,
+      59,
+      100,
+      18
+    ],
+    "crop_size": [
+      108,
+      26
+    ],
+    "center": [
+      796,
+      68
+    ],
+    "padding": 4,
+    "contour_area": 1384
+  },
+  {
+    "file": "f003_010_white_764x23_48x26.png",
+    "frame": "f003",
+    "idx": 10,
+    "color": "white",
+    "display": "⬜ 普通",
+    "bbox": [
+      744,
+      14,
+      40,
+      18
+    ],
+    "crop_size": [
+      48,
+      26
+    ],
+    "center": [
+      764,
+      23
+    ],
+    "padding": 4,
+    "contour_area": 517
+  },
+  {
+    "file": "f003_011_blue_355x471_73x27.png",
+    "frame": "f003",
+    "idx": 11,
+    "color": "blue",
+    "display": "🔵 魔法",
+    "bbox": [
+      323,
+      462,
+      65,
+      19
+    ],
+    "crop_size": [
+      73,
+      27
+    ],
+    "center": [
+      355,
+      471
+    ],
+    "padding": 4,
+    "contour_area": 1013
+  },
+  {
+    "file": "f003_012_blue_544x292_47x26.png",
+    "frame": "f003",
+    "idx": 12,
+    "color": "blue",
+    "display": "🔵 魔法",
+    "bbox": [
+      525,
+      283,
+      39,
+      18
+    ],
+    "crop_size": [
+      47,
+      26
+    ],
+    "center": [
+      544,
+      292
+    ],
+    "padding": 4,
+    "contour_area": 608
+  },
+  {
+    "file": "f003_013_blue_836x182_40x27.png",
+    "frame": "f003",
+    "idx": 13,
+    "color": "blue",
+    "display": "🔵 魔法",
+    "bbox": [
+      820,
+      173,
+      32,
+      19
+    ],
+    "crop_size": [
+      40,
+      27
+    ],
+    "center": [
+      836,
+      182
+    ],
+    "padding": 4,
+    "contour_area": 536
+  },
+  {
+    "file": "f003_014_blue_774x91_64x27.png",
+    "frame": "f003",
+    "idx": 14,
+    "color": "blue",
+    "display": "🔵 魔法",
+    "bbox": [
+      746,
+      82,
+      56,
+      19
+    ],
+    "crop_size": [
+      64,
+      27
+    ],
+    "center": [
+      774,
+      91
+    ],
+    "padding": 4,
+    "contour_area": 842
+  },
+  {
+    "file": "f003_015_blue_756x44_80x27.png",
+    "frame": "f003",
+    "idx": 15,
+    "color": "blue",
+    "display": "🔵 魔法",
+    "bbox": [
+      720,
+      35,
+      72,
+      19
+    ],
+    "crop_size": [
+      80,
+      27
+    ],
+    "center": [
+      756,
+      44
+    ],
+    "padding": 4,
+    "contour_area": 1025
+  },
+  {
+    "file": "f003_016_yellow_395x519_63x26.png",
+    "frame": "f003",
+    "idx": 16,
+    "color": "yellow",
+    "display": "🟡 稀有",
+    "bbox": [
+      368,
+      510,
+      55,
+      18
+    ],
+    "crop_size": [
+      63,
+      26
+    ],
+    "center": [
+      395,
+      519
+    ],
+    "padding": 4,
+    "contour_area": 854
+  },
+  {
+    "file": "f003_017_yellow_564x315_47x27.png",
+    "frame": "f003",
+    "idx": 17,
+    "color": "yellow",
+    "display": "🟡 稀有",
+    "bbox": [
+      545,
+      306,
+      39,
+      19
+    ],
+    "crop_size": [
+      47,
+      27
+    ],
+    "center": [
+      564,
+      315
+    ],
+    "padding": 4,
+    "contour_area": 591
+  },
+  {
+    "file": "f003_018_yellow_567x269_63x27.png",
+    "frame": "f003",
+    "idx": 18,
+    "color": "yellow",
+    "display": "🟡 稀有",
+    "bbox": [
+      540,
+      260,
+      55,
+      19
+    ],
+    "crop_size": [
+      63,
+      27
+    ],
+    "center": [
+      567,
+      269
+    ],
+    "padding": 4,
+    "contour_area": 943
+  },
+  {
+    "file": "f003_019_gold_374x495_80x27.png",
+    "frame": "f003",
+    "idx": 19,
+    "color": "gold",
+    "display": "🟤 暗金",
+    "bbox": [
+      338,
+      486,
+      72,
+      19
+    ],
+    "crop_size": [
+      80,
+      27
+    ],
+    "center": [
+      374,
+      495
+    ],
+    "padding": 4,
+    "contour_area": 1124
+  },
+  {
+    "file": "f003_020_orange_505x575_36x25.png",
+    "frame": "f003",
+    "idx": 20,
+    "color": "orange",
+    "display": "🟠 符文/工藝",
+    "bbox": [
+      491,
+      567,
+      28,
+      17
+    ],
+    "crop_size": [
+      36,
+      25
+    ],
+    "center": [
+      505,
+      575
+    ],
+    "padding": 4,
+    "contour_area": 314
+  },
+  {
+    "file": "f005_001_white_43x695_43x23.png",
+    "frame": "f005",
+    "idx": 1,
+    "color": "white",
+    "display": "⬜ 普通",
+    "bbox": [
+      26,
+      688,
+      35,
+      15
+    ],
+    "crop_size": [
+      43,
+      23
+    ],
+    "center": [
+      43,
+      695
+    ],
+    "padding": 4,
+    "contour_area": 278
+  },
+  {
+    "file": "f005_002_white_755x378_47x27.png",
+    "frame": "f005",
+    "idx": 2,
+    "color": "white",
+    "display": "⬜ 普通",
+    "bbox": [
+      736,
+      369,
+      39,
+      19
+    ],
+    "crop_size": [
+      47,
+      27
+    ],
+    "center": [
+      755,
+      378
+    ],
+    "padding": 4,
+    "contour_area": 556
+  },
+  {
+    "file": "f005_003_white_638x378_64x26.png",
+    "frame": "f005",
+    "idx": 3,
+    "color": "white",
+    "display": "⬜ 普通",
+    "bbox": [
+      610,
+      369,
+      56,
+      18
+    ],
+    "crop_size": [
+      64,
+      26
+    ],
+    "center": [
+      638,
+      378
+    ],
+    "padding": 4,
+    "contour_area": 855
+  },
+  {
+    "file": "f005_004_white_702x336_113x27.png",
+    "frame": "f005",
+    "idx": 4,
+    "color": "white",
+    "display": "⬜ 普通",
+    "bbox": [
+      650,
+      327,
+      105,
+      19
+    ],
+    "crop_size": [
+      113,
+      27
+    ],
+    "center": [
+      702,
+      336
+    ],
+    "padding": 4,
+    "contour_area": 1631
+  },
+  {
+    "file": "f005_005_white_794x333_80x26.png",
+    "frame": "f005",
+    "idx": 5,
+    "color": "white",
+    "display": "⬜ 普通",
+    "bbox": [
+      758,
+      324,
+      72,
+      18
+    ],
+    "crop_size": [
+      80,
+      26
+    ],
+    "center": [
+      794,
+      333
+    ],
+    "padding": 4,
+    "contour_area": 1034
+  },
+  {
+    "file": "f005_006_white_644x313_112x27.png",
+    "frame": "f005",
+    "idx": 6,
+    "color": "white",
+    "display": "⬜ 普通",
+    "bbox": [
+      592,
+      304,
+      104,
+      19
+    ],
+    "crop_size": [
+      112,
+      27
+    ],
+    "center": [
+      644,
+      313
+    ],
+    "padding": 4,
+    "contour_area": 1645
+  },
+  {
+    "file": "f005_007_white_684x290_113x27.png",
+    "frame": "f005",
+    "idx": 7,
+    "color": "white",
+    "display": "⬜ 普通",
+    "bbox": [
+      632,
+      281,
+      105,
+      19
+    ],
+    "crop_size": [
+      113,
+      27
+    ],
+    "center": [
+      684,
+      290
+    ],
+    "padding": 4,
+    "contour_area": 1738
+  },
+  {
+    "file": "f005_008_white_811x272_63x27.png",
+    "frame": "f005",
+    "idx": 8,
+    "color": "white",
+    "display": "⬜ 普通",
+    "bbox": [
+      784,
+      263,
+      55,
+      19
+    ],
+    "crop_size": [
+      63,
+      27
+    ],
+    "center": [
+      811,
+      272
+    ],
+    "padding": 4,
+    "contour_area": 843
+  },
+  {
+    "file": "f005_009_white_732x267_81x27.png",
+    "frame": "f005",
+    "idx": 9,
+    "color": "white",
+    "display": "⬜ 普通",
+    "bbox": [
+      696,
+      258,
+      73,
+      19
+    ],
+    "crop_size": [
+      81,
+      27
+    ],
+    "center": [
+      732,
+      267
+    ],
+    "padding": 4,
+    "contour_area": 1060
+  },
+  {
+    "file": "f005_010_white_682x244_112x27.png",
+    "frame": "f005",
+    "idx": 10,
+    "color": "white",
+    "display": "⬜ 普通",
+    "bbox": [
+      630,
+      235,
+      104,
+      19
+    ],
+    "crop_size": [
+      112,
+      27
+    ],
+    "center": [
+      682,
+      244
+    ],
+    "padding": 4,
+    "contour_area": 1592
+  },
+  {
+    "file": "f005_011_white_623x221_81x27.png",
+    "frame": "f005",
+    "idx": 11,
+    "color": "white",
+    "display": "⬜ 普通",
+    "bbox": [
+      587,
+      212,
+      73,
+      19
+    ],
+    "crop_size": [
+      81,
+      27
+    ],
+    "center": [
+      623,
+      221
+    ],
+    "padding": 4,
+    "contour_area": 1108
+  },
+  {
+    "file": "f005_012_white_626x198_76x27.png",
+    "frame": "f005",
+    "idx": 12,
+    "color": "white",
+    "display": "⬜ 普通",
+    "bbox": [
+      592,
+      189,
+      68,
+      19
+    ],
+    "crop_size": [
+      76,
+      27
+    ],
+    "center": [
+      626,
+      198
+    ],
+    "padding": 4,
+    "contour_area": 1074
+  },
+  {
+    "file": "f005_013_white_649x152_49x27.png",
+    "frame": "f005",
+    "idx": 13,
+    "color": "white",
+    "display": "⬜ 普通",
+    "bbox": [
+      629,
+      143,
+      41,
+      19
+    ],
+    "crop_size": [
+      49,
+      27
+    ],
+    "center": [
+      649,
+      152
+    ],
+    "padding": 4,
+    "contour_area": 656
+  },
+  {
+    "file": "f005_014_blue_429x523_47x25.png",
+    "frame": "f005",
+    "idx": 14,
+    "color": "blue",
+    "display": "🔵 魔法",
+    "bbox": [
+      410,
+      515,
+      39,
+      17
+    ],
+    "crop_size": [
+      47,
+      25
+    ],
+    "center": [
+      429,
+      523
+    ],
+    "padding": 4,
+    "contour_area": 544
+  },
+  {
+    "file": "f005_015_blue_720x359_41x27.png",
+    "frame": "f005",
+    "idx": 15,
+    "color": "blue",
+    "display": "🔵 魔法",
+    "bbox": [
+      704,
+      350,
+      33,
+      19
+    ],
+    "crop_size": [
+      41,
+      27
+    ],
+    "center": [
+      720,
+      359
+    ],
+    "padding": 4,
+    "contour_area": 513
+  },
+  {
+    "file": "f005_016_blue_659x267_64x27.png",
+    "frame": "f005",
+    "idx": 16,
+    "color": "blue",
+    "display": "🔵 魔法",
+    "bbox": [
+      631,
+      258,
+      56,
+      19
+    ],
+    "crop_size": [
+      64,
+      27
+    ],
+    "center": [
+      659,
+      267
+    ],
+    "padding": 4,
+    "contour_area": 862
+  },
+  {
+    "file": "f005_017_blue_640x175_81x27.png",
+    "frame": "f005",
+    "idx": 17,
+    "color": "blue",
+    "display": "🔵 魔法",
+    "bbox": [
+      604,
+      166,
+      73,
+      19
+    ],
+    "crop_size": [
+      81,
+      27
+    ],
+    "center": [
+      640,
+      175
+    ],
+    "padding": 4,
+    "contour_area": 1170
+  },
+  {
+    "file": "f005_018_gold_721x221_64x27.png",
+    "frame": "f005",
+    "idx": 18,
+    "color": "gold",
+    "display": "🟤 暗金",
+    "bbox": [
+      693,
+      212,
+      56,
+      19
+    ],
+    "crop_size": [
+      64,
+      27
+    ],
+    "center": [
+      721,
+      221
+    ],
+    "padding": 4,
+    "contour_area": 878
+  },
+  {
+    "file": "f005_019_gold_735x199_48x26.png",
+    "frame": "f005",
+    "idx": 19,
+    "color": "gold",
+    "display": "🟤 暗金",
+    "bbox": [
+      715,
+      190,
+      40,
+      18
+    ],
+    "crop_size": [
+      48,
+      26
+    ],
+    "center": [
+      735,
+      199
+    ],
+    "padding": 4,
+    "contour_area": 647
+  },
+  {
+    "file": "f005_020_orange_811x356_113x26.png",
+    "frame": "f005",
+    "idx": 20,
+    "color": "orange",
+    "display": "🟠 符文/工藝",
+    "bbox": [
+      759,
+      347,
+      105,
+      18
+    ],
+    "crop_size": [
+      113,
+      26
+    ],
+    "center": [
+      811,
+      356
+    ],
+    "padding": 4,
+    "contour_area": 1333
+  },
+  {
+    "file": "f005_021_orange_720x110_29x21.png",
+    "frame": "f005",
+    "idx": 21,
+    "color": "orange",
+    "display": "🟠 符文/工藝",
+    "bbox": [
+      710,
+      104,
+      21,
+      13
+    ],
+    "crop_size": [
+      29,
+      21
+    ],
+    "center": [
+      720,
+      110
+    ],
+    "padding": 4,
+    "contour_area": 164
+  },
+  {
+    "file": "f006_001_white_92x271_33x21.png",
+    "frame": "f006",
+    "idx": 1,
+    "color": "white",
+    "display": "⬜ 普通",
+    "bbox": [
+      80,
+      265,
+      25,
+      13
+    ],
+    "crop_size": [
+      33,
+      21
+    ],
+    "center": [
+      92,
+      271
+    ],
+    "padding": 4,
+    "contour_area": 222
+  },
+  {
+    "file": "f006_002_blue_92x272_41x24.png",
+    "frame": "f006",
+    "idx": 2,
+    "color": "blue",
+    "display": "🔵 魔法",
+    "bbox": [
+      76,
+      264,
+      33,
+      16
+    ],
+    "crop_size": [
+      41,
+      24
+    ],
+    "center": [
+      92,
+      272
+    ],
+    "padding": 4,
+    "contour_area": 324
+  },
+  {
+    "file": "f006_003_blue_89x258_38x26.png",
+    "frame": "f006",
+    "idx": 3,
+    "color": "blue",
+    "display": "🔵 魔法",
+    "bbox": [
+      74,
+      249,
+      30,
+      18
+    ],
+    "crop_size": [
+      38,
+      26
+    ],
+    "center": [
+      89,
+      258
+    ],
+    "padding": 4,
+    "contour_area": 273
+  },
+  {
+    "file": "f006_004_orange_505x492_35x18.png",
+    "frame": "f006",
+    "idx": 4,
+    "color": "orange",
+    "display": "🟠 符文/工藝",
+    "bbox": [
+      492,
+      487,
+      27,
+      10
+    ],
+    "crop_size": [
+      35,
+      18
+    ],
+    "center": [
+      505,
+      492
+    ],
+    "padding": 4,
+    "contour_area": 172
+  },
+  {
+    "file": "f006_005_orange_562x375_97x46.png",
+    "frame": "f006",
+    "idx": 5,
+    "color": "orange",
+    "display": "🟠 符文/工藝",
+    "bbox": [
+      518,
+      356,
+      89,
+      38
+    ],
+    "crop_size": [
+      97,
+      46
+    ],
+    "center": [
+      562,
+      375
+    ],
+    "padding": 4,
+    "contour_area": 3112
+  },
+  {
+    "file": "f006_006_orange_467x336_95x27.png",
+    "frame": "f006",
+    "idx": 6,
+    "color": "orange",
+    "display": "🟠 符文/工藝",
+    "bbox": [
+      424,
+      327,
+      87,
+      19
+    ],
+    "crop_size": [
+      95,
+      27
+    ],
+    "center": [
+      467,
+      336
+    ],
+    "padding": 4,
+    "contour_area": 1383
+  },
+  {
+    "file": "f006_007_orange_486x314_95x27.png",
+    "frame": "f006",
+    "idx": 7,
+    "color": "orange",
+    "display": "🟠 符文/工藝",
+    "bbox": [
+      443,
+      305,
+      87,
+      19
+    ],
+    "crop_size": [
+      95,
+      27
+    ],
+    "center": [
+      486,
+      314
+    ],
+    "padding": 4,
+    "contour_area": 1377
+  },
+  {
+    "file": "f006_008_orange_523x291_97x27.png",
+    "frame": "f006",
+    "idx": 8,
+    "color": "orange",
+    "display": "🟠 符文/工藝",
+    "bbox": [
+      479,
+      282,
+      89,
+      19
+    ],
+    "crop_size": [
+      97,
+      27
+    ],
+    "center": [
+      523,
+      291
+    ],
+    "padding": 4,
+    "contour_area": 1345
+  },
+  {
+    "file": "f006_009_orange_543x268_97x27.png",
+    "frame": "f006",
+    "idx": 9,
+    "color": "orange",
+    "display": "🟠 符文/工藝",
+    "bbox": [
+      499,
+      259,
+      89,
+      19
+    ],
+    "crop_size": [
+      97,
+      27
+    ],
+    "center": [
+      543,
+      268
+    ],
+    "padding": 4,
+    "contour_area": 1245
+  },
+  {
+    "file": "f006_010_orange_429x163_39x26.png",
+    "frame": "f006",
+    "idx": 10,
+    "color": "orange",
+    "display": "🟠 符文/工藝",
+    "bbox": [
+      414,
+      154,
+      31,
+      18
+    ],
+    "crop_size": [
+      39,
+      26
+    ],
+    "center": [
+      429,
+      163
+    ],
+    "padding": 4,
+    "contour_area": 338
+  },
+  {
+    "file": "f007_001_yellow_717x241_43x21.png",
+    "frame": "f007",
+    "idx": 1,
+    "color": "yellow",
+    "display": "🟡 稀有",
+    "bbox": [
+      700,
+      235,
+      35,
+      13
+    ],
+    "crop_size": [
+      43,
+      21
+    ],
+    "center": [
+      717,
+      241
+    ],
+    "padding": 4,
+    "contour_area": 304
+  },
+  {
+    "file": "f007_002_orange_988x374_62x39.png",
+    "frame": "f007",
+    "idx": 2,
+    "color": "orange",
+    "display": "🟠 符文/工藝",
+    "bbox": [
+      961,
+      359,
+      54,
+      31
+    ],
+    "crop_size": [
+      62,
+      39
+    ],
+    "center": [
+      988,
+      374
+    ],
+    "padding": 4,
+    "contour_area": 1059
+  },
+  {
+    "file": "f008_001_white_678x418_112x27.png",
+    "frame": "f008",
+    "idx": 1,
+    "color": "white",
+    "display": "⬜ 普通",
+    "bbox": [
+      626,
+      409,
+      104,
+      19
+    ],
+    "crop_size": [
+      112,
+      27
+    ],
+    "center": [
+      678,
+      418
+    ],
+    "padding": 4,
+    "contour_area": 1688
+  },
+  {
+    "file": "f008_002_blue_700x441_44x27.png",
+    "frame": "f008",
+    "idx": 2,
+    "color": "blue",
+    "display": "🔵 魔法",
+    "bbox": [
+      682,
+      432,
+      36,
+      19
+    ],
+    "crop_size": [
+      44,
+      27
+    ],
+    "center": [
+      700,
+      441
+    ],
+    "padding": 4,
+    "contour_area": 549
+  },
+  {
+    "file": "f008_003_yellow_985x376_39x24.png",
+    "frame": "f008",
+    "idx": 3,
+    "color": "yellow",
+    "display": "🟡 稀有",
+    "bbox": [
+      970,
+      368,
+      31,
+      16
+    ],
+    "crop_size": [
+      39,
+      24
+    ],
+    "center": [
+      985,
+      376
+    ],
+    "padding": 4,
+    "contour_area": 280
+  },
+  {
+    "file": "f008_004_yellow_716x241_35x25.png",
+    "frame": "f008",
+    "idx": 4,
+    "color": "yellow",
+    "display": "🟡 稀有",
+    "bbox": [
+      703,
+      233,
+      27,
+      17
+    ],
+    "crop_size": [
+      35,
+      25
+    ],
+    "center": [
+      716,
+      241
+    ],
+    "padding": 4,
+    "contour_area": 260
+  },
+  {
+    "file": "f008_005_gold_929x498_60x30.png",
+    "frame": "f008",
+    "idx": 5,
+    "color": "gold",
+    "display": "🟤 暗金",
+    "bbox": [
+      903,
+      487,
+      52,
+      22
+    ],
+    "crop_size": [
+      60,
+      30
+    ],
+    "center": [
+      929,
+      498
+    ],
+    "padding": 4,
+    "contour_area": 531
+  }
+]

@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+data/gt_overfit/
+data/gt_train/
+data/gt_eval/
+tesstrain/
+output/
+*.traineddata
