@@ -1,0 +1,2158 @@
+[
+  {
+    "file": "f001_001_orange_201x306_28x21.png",
+    "color": "orange",
+    "auto_label": "頭盔：",
+    "confidence": "LOW",
+    "emb_top1": "頭盔：",
+    "emb_score": 0.744,
+    "emb_top3": [
+      [
+        "頭盔：",
+        0.744
+      ],
+      [
+        "護甲：",
+        0.743
+      ],
+      [
+        "盾牌：",
+        0.737
+      ]
+    ],
+    "ocr_text": "",
+    "ocr_conf": 0,
+    "fuzzy_match": "",
+    "fuzzy_score": 0,
+    "human_label": "",
+    "verified": false
+  },
+  {
+    "file": "f002_001_white_459x575_42x25.png",
+    "color": "white",
+    "auto_label": "鉤斧",
+    "confidence": "HIGH",
+    "emb_top1": "鉤斧",
+    "emb_score": 0.945,
+    "emb_top3": [
+      [
+        "鉤斧",
+        0.945
+      ],
+      [
+        "銀刃斧",
+        0.905
+      ],
+      [
+        "鋼弩",
+        0.898
+      ]
+    ],
+    "ocr_text": "鉤斧",
+    "ocr_conf": 0.99,
+    "fuzzy_match": "鉤斧",
+    "fuzzy_score": 1.0,
+    "human_label": "",
+    "verified": false
+  },
+  {
+    "file": "f002_002_white_552x538_45x25.png",
+    "color": "white",
+    "auto_label": "弩箭",
+    "confidence": "HIGH",
+    "emb_top1": "弩箭",
+    "emb_score": 0.957,
+    "emb_top3": [
+      [
+        "弩箭",
+        0.957
+      ],
+      [
+        "弩",
+        0.918
+      ],
+      [
+        "鋼弩",
+        0.917
+      ]
+    ],
+    "ocr_text": "弩箭",
+    "ocr_conf": 0.976,
+    "fuzzy_match": "弩箭",
+    "fuzzy_score": 1.0,
+    "human_label": "",
+    "verified": false
+  },
+  {
+    "file": "f002_003_white_466x531_82x27.png",
+    "color": "white",
+    "auto_label": "生命藥水",
+    "confidence": "MED",
+    "emb_top1": "生命藥水",
+    "emb_score": 0.884,
+    "emb_top3": [
+      [
+        "生命藥水",
+        0.884
+      ],
+      [
+        "複合弓",
+        0.883
+      ],
+      [
+        "鑽石弓",
+        0.877
+      ]
+    ],
+    "ocr_text": "153金幣",
+    "ocr_conf": 0.992,
+    "fuzzy_match": "金紋盾",
+    "fuzzy_score": 0.25,
+    "human_label": "",
+    "verified": false
+  },
+  {
+    "file": "f002_004_white_506x508_78x26.png",
+    "color": "white",
+    "auto_label": "征戰短弓",
+    "confidence": "HIGH",
+    "emb_top1": "征戰短弓",
+    "emb_score": 0.969,
+    "emb_top3": [
+      [
+        "征戰短弓",
+        0.969
+      ],
+      [
+        "征戰長弓",
+        0.942
+      ],
+      [
+        "戰鬥短弓",
+        0.932
+      ]
+    ],
+    "ocr_text": "征戰短弓",
+    "ocr_conf": 0.988,
+    "fuzzy_match": "征戰短弓",
+    "fuzzy_score": 1.0,
+    "human_label": "",
+    "verified": false
+  },
+  {
+    "file": "f002_005_white_433x508_63x26.png",
+    "color": "white",
+    "auto_label": "巨角獸帽",
+    "confidence": "HIGH",
+    "emb_top1": "巨角獸帽",
+    "emb_score": 0.951,
+    "emb_top3": [
+      [
+        "巨角獸帽",
+        0.951
+      ],
+      [
+        "狼頭獸帽",
+        0.923
+      ],
+      [
+        "顎骨帽",
+        0.92
+      ]
+    ],
+    "ocr_text": "角獸帽",
+    "ocr_conf": 0.997,
+    "fuzzy_match": "巨角獸帽",
+    "fuzzy_score": 0.857,
+    "human_label": "",
+    "verified": false
+  },
+  {
+    "file": "f002_006_white_548x465_142x30.png",
+    "color": "white",
+    "auto_label": "攏煙之球",
+    "confidence": "MED",
+    "emb_top1": "護盾：提高火焰抗性",
+    "emb_score": 0.857,
+    "emb_top3": [
+      [
+        "護盾：提高火焰抗性",
+        0.857
+      ],
+      [
+        "提高電擊抗性",
+        0.857
+      ],
+      [
+        "提高火焰抗性",
+        0.855
+      ]
+    ],
+    "ocr_text": "特等的攏煙之球",
+    "ocr_conf": 0.958,
+    "fuzzy_match": "攏煙之球",
+    "fuzzy_score": 0.727,
+    "human_label": "",
+    "verified": false
+  },
+  {
+    "file": "f002_007_white_45x388_43x23.png",
+    "color": "white",
+    "auto_label": "尖齒小刀",
+    "confidence": "LOW",
+    "emb_top1": "尖齒小刀",
+    "emb_score": 0.844,
+    "emb_top3": [
+      [
+        "尖齒小刀",
+        0.844
+      ],
+      [
+        "符文：伊司",
+        0.842
+      ],
+      [
+        "骨刀",
+        0.84
+      ]
+    ],
+    "ocr_text": "179",
+    "ocr_conf": 0.484,
+    "fuzzy_match": "",
+    "fuzzy_score": 0,
+    "human_label": "",
+    "verified": false
+  },
+  {
+    "file": "f002_008_white_81x388_41x26.png",
+    "color": "white",
+    "auto_label": "金屬網格",
+    "confidence": "MED",
+    "emb_top1": "金屬網格",
+    "emb_score": 0.923,
+    "emb_top3": [
+      [
+        "金屬網格",
+        0.923
+      ],
+      [
+        "釦帶",
+        0.896
+      ],
+      [
+        "金紋盾",
+        0.886
+      ]
+    ],
+    "ocr_text": "金幣",
+    "ocr_conf": 0.995,
+    "fuzzy_match": "金紋盾",
+    "fuzzy_score": 0.4,
+    "human_label": "",
+    "verified": false
+  },
+  {
+    "file": "f002_009_white_389x384_43x24.png",
+    "color": "white",
+    "auto_label": "弓矢",
+    "confidence": "MED",
+    "emb_top1": "弓矢",
+    "emb_score": 0.929,
+    "emb_top3": [
+      [
+        "弓矢",
+        0.929
+      ],
+      [
+        "主母之弓",
+        0.879
+      ],
+      [
+        "女傑之弓",
+        0.872
+      ]
+    ],
+    "ocr_text": "弓矢",
+    "ocr_conf": 0.962,
+    "fuzzy_match": "弓矢",
+    "fuzzy_score": 1.0,
+    "human_label": "",
+    "verified": false
+  },
+  {
+    "file": "f002_010_white_973x99_38x23.png",
+    "color": "white",
+    "auto_label": "符文：伊司",
+    "confidence": "MED",
+    "emb_top1": "符文：伊司",
+    "emb_score": 0.859,
+    "emb_top3": [
+      [
+        "符文：伊司",
+        0.859
+      ],
+      [
+        "骸骨小刀",
+        0.846
+      ],
+      [
+        "骨刀",
+        0.841
+      ]
+    ],
+    "ocr_text": "511",
+    "ocr_conf": 0.974,
+    "fuzzy_match": "",
+    "fuzzy_score": 0,
+    "human_label": "",
+    "verified": false
+  },
+  {
+    "file": "f002_011_white_1007x99_45x26.png",
+    "color": "white",
+    "auto_label": "金屬網格",
+    "confidence": "MED",
+    "emb_top1": "金屬網格",
+    "emb_score": 0.915,
+    "emb_top3": [
+      [
+        "金屬網格",
+        0.915
+      ],
+      [
+        "金紋盾",
+        0.891
+      ],
+      [
+        "生命藥水",
+        0.889
+      ]
+    ],
+    "ocr_text": "金幣",
+    "ocr_conf": 0.995,
+    "fuzzy_match": "金紋盾",
+    "fuzzy_score": 0.4,
+    "human_label": "",
+    "verified": false
+  },
+  {
+    "file": "f002_012_white_1099x67_43x23.png",
+    "color": "white",
+    "auto_label": "弓矢",
+    "confidence": "HIGH",
+    "emb_top1": "弓矢",
+    "emb_score": 0.959,
+    "emb_top3": [
+      [
+        "弓矢",
+        0.959
+      ],
+      [
+        "短弓",
+        0.907
+      ],
+      [
+        "符文弓",
+        0.898
+      ]
+    ],
+    "ocr_text": "弓矢",
+    "ocr_conf": 0.973,
+    "fuzzy_match": "弓矢",
+    "fuzzy_score": 1.0,
+    "human_label": "",
+    "verified": false
+  },
+  {
+    "file": "f002_013_white_984x67_62x26.png",
+    "color": "white",
+    "auto_label": "征戰斧",
+    "confidence": "HIGH",
+    "emb_top1": "征戰斧",
+    "emb_score": 0.968,
+    "emb_top3": [
+      [
+        "征戰斧",
+        0.968
+      ],
+      [
+        "狂戰斧",
+        0.94
+      ],
+      [
+        "征戰拳套",
+        0.937
+      ]
+    ],
+    "ocr_text": "征戰斧",
+    "ocr_conf": 0.993,
+    "fuzzy_match": "征戰斧",
+    "fuzzy_score": 1.0,
+    "human_label": "",
+    "verified": false
+  },
+  {
+    "file": "f002_014_white_1138x45_77x26.png",
+    "color": "white",
+    "auto_label": "戰鬥長劍",
+    "confidence": "HIGH",
+    "emb_top1": "戰鬥長劍",
+    "emb_score": 0.972,
+    "emb_top3": [
+      [
+        "戰鬥長劍",
+        0.972
+      ],
+      [
+        "戰鬥飛鏢",
+        0.94
+      ],
+      [
+        "戰鬥鐮刀",
+        0.939
+      ]
+    ],
+    "ocr_text": "戰鬥長釗",
+    "ocr_conf": 0.57,
+    "fuzzy_match": "戰鬥長劍",
+    "fuzzy_score": 0.75,
+    "human_label": "",
+    "verified": false
+  },
+  {
+    "file": "f002_015_white_1048x26_110x26.png",
+    "color": "white",
+    "auto_label": "特效生命藥水",
+    "confidence": "HIGH",
+    "emb_top1": "特效生命藥水",
+    "emb_score": 0.985,
+    "emb_top3": [
+      [
+        "特效生命藥水",
+        0.985
+      ],
+      [
+        "強效生命藥水",
+        0.974
+      ],
+      [
+        "輕效生命藥水",
+        0.971
+      ]
+    ],
+    "ocr_text": "特效生命藥水",
+    "ocr_conf": 0.859,
+    "fuzzy_match": "特效生命藥水",
+    "fuzzy_score": 1.0,
+    "human_label": "",
+    "verified": false
+  },
+  {
+    "file": "f002_016_white_1086x8_63x11.png",
+    "color": "white",
+    "auto_label": "護甲：",
+    "confidence": "LOW",
+    "emb_top1": "護甲：",
+    "emb_score": 0.659,
+    "emb_top3": [
+      [
+        "護甲：",
+        0.659
+      ],
+      [
+        "盾牌：",
+        0.651
+      ],
+      [
+        "頭盔：",
+        0.638
+      ]
+    ],
+    "ocr_text": "",
+    "ocr_conf": 0,
+    "fuzzy_match": "",
+    "fuzzy_score": 0,
+    "human_label": "",
+    "verified": false
+  },
+  {
+    "file": "f002_017_white_1015x8_59x11.png",
+    "color": "white",
+    "auto_label": "護甲：",
+    "confidence": "LOW",
+    "emb_top1": "護甲：",
+    "emb_score": 0.633,
+    "emb_top3": [
+      [
+        "護甲：",
+        0.633
+      ],
+      [
+        "盾牌：",
+        0.623
+      ],
+      [
+        "頭盔：",
+        0.616
+      ]
+    ],
+    "ocr_text": "",
+    "ocr_conf": 0,
+    "fuzzy_match": "",
+    "fuzzy_score": 0,
+    "human_label": "",
+    "verified": false
+  },
+  {
+    "file": "f002_018_white_965x8_53x11.png",
+    "color": "white",
+    "auto_label": "護甲：",
+    "confidence": "LOW",
+    "emb_top1": "護甲：",
+    "emb_score": 0.673,
+    "emb_top3": [
+      [
+        "護甲：",
+        0.673
+      ],
+      [
+        "盾牌：",
+        0.665
+      ],
+      [
+        "頭盔：",
+        0.651
+      ]
+    ],
+    "ocr_text": "",
+    "ocr_conf": 0,
+    "fuzzy_match": "",
+    "fuzzy_score": 0,
+    "human_label": "",
+    "verified": false
+  },
+  {
+    "file": "f002_019_blue_563x489_49x27.png",
+    "color": "blue",
+    "auto_label": "連枷",
+    "confidence": "MED",
+    "emb_top1": "連枷",
+    "emb_score": 0.931,
+    "emb_top3": [
+      [
+        "連枷",
+        0.931
+      ],
+      [
+        "刑罪連枷",
+        0.897
+      ],
+      [
+        "將軍的連枷",
+        0.886
+      ]
+    ],
+    "ocr_text": "連枷",
+    "ocr_conf": 0.701,
+    "fuzzy_match": "連枷",
+    "fuzzy_score": 1.0,
+    "human_label": "",
+    "verified": false
+  },
+  {
+    "file": "f002_020_blue_1067x49_40x26.png",
+    "color": "blue",
+    "auto_label": "戒指",
+    "confidence": "HIGH",
+    "emb_top1": "戒指",
+    "emb_score": 0.961,
+    "emb_top3": [
+      [
+        "戒指",
+        0.961
+      ],
+      [
+        "排齒",
+        0.913
+      ],
+      [
+        "指節",
+        0.907
+      ]
+    ],
+    "ocr_text": "戒指",
+    "ocr_conf": 0.786,
+    "fuzzy_match": "戒指",
+    "fuzzy_score": 1.0,
+    "human_label": "",
+    "verified": false
+  },
+  {
+    "file": "f003_001_white_159x518_43x23.png",
+    "color": "white",
+    "auto_label": "弓矢",
+    "confidence": "HIGH",
+    "emb_top1": "弓矢",
+    "emb_score": 0.959,
+    "emb_top3": [
+      [
+        "弓矢",
+        0.959
+      ],
+      [
+        "短弓",
+        0.907
+      ],
+      [
+        "符文弓",
+        0.898
+      ]
+    ],
+    "ocr_text": "弓矢",
+    "ocr_conf": 0.961,
+    "fuzzy_match": "弓矢",
+    "fuzzy_score": 1.0,
+    "human_label": "",
+    "verified": false
+  },
+  {
+    "file": "f003_002_white_870x201_47x27.png",
+    "color": "white",
+    "auto_label": "弓矢",
+    "confidence": "HIGH",
+    "emb_top1": "弓矢",
+    "emb_score": 0.955,
+    "emb_top3": [
+      [
+        "弓矢",
+        0.955
+      ],
+      [
+        "短弓",
+        0.903
+      ],
+      [
+        "反射弓",
+        0.899
+      ]
+    ],
+    "ocr_text": "弓矢",
+    "ocr_conf": 0.991,
+    "fuzzy_match": "弓矢",
+    "fuzzy_score": 1.0,
+    "human_label": "",
+    "verified": false
+  },
+  {
+    "file": "f003_003_white_752x201_62x26.png",
+    "color": "white",
+    "auto_label": "征戰斧",
+    "confidence": "HIGH",
+    "emb_top1": "征戰斧",
+    "emb_score": 0.965,
+    "emb_top3": [
+      [
+        "征戰斧",
+        0.965
+      ],
+      [
+        "狂戰斧",
+        0.941
+      ],
+      [
+        "征戰腰帶",
+        0.934
+      ]
+    ],
+    "ocr_text": "征戰斧",
+    "ocr_conf": 0.996,
+    "fuzzy_match": "征戰斧",
+    "fuzzy_score": 1.0,
+    "human_label": "",
+    "verified": false
+  },
+  {
+    "file": "f003_004_white_907x179_78x26.png",
+    "color": "white",
+    "auto_label": "戰鬥長劍",
+    "confidence": "HIGH",
+    "emb_top1": "戰鬥長劍",
+    "emb_score": 0.969,
+    "emb_top3": [
+      [
+        "戰鬥長劍",
+        0.969
+      ],
+      [
+        "戰鬥鐮刀",
+        0.941
+      ],
+      [
+        "戰鬥飛鏢",
+        0.937
+      ]
+    ],
+    "ocr_text": "戰鬥長劍",
+    "ocr_conf": 0.558,
+    "fuzzy_match": "戰鬥長劍",
+    "fuzzy_score": 1.0,
+    "human_label": "",
+    "verified": false
+  },
+  {
+    "file": "f003_005_white_817x159_112x27.png",
+    "color": "white",
+    "auto_label": "特效生命藥水",
+    "confidence": "HIGH",
+    "emb_top1": "特效生命藥水",
+    "emb_score": 0.973,
+    "emb_top3": [
+      [
+        "特效生命藥水",
+        0.973
+      ],
+      [
+        "強效生命藥水",
+        0.961
+      ],
+      [
+        "弱效生命藥水",
+        0.959
+      ]
+    ],
+    "ocr_text": "特效生命藥水",
+    "ocr_conf": 0.995,
+    "fuzzy_match": "特效生命藥水",
+    "fuzzy_score": 1.0,
+    "human_label": "",
+    "verified": false
+  },
+  {
+    "file": "f003_006_white_856x138_63x26.png",
+    "color": "white",
+    "auto_label": "巨角獸帽",
+    "confidence": "HIGH",
+    "emb_top1": "巨角獸帽",
+    "emb_score": 0.952,
+    "emb_top3": [
+      [
+        "巨角獸帽",
+        0.952
+      ],
+      [
+        "狼頭獸帽",
+        0.923
+      ],
+      [
+        "顱帽",
+        0.921
+      ]
+    ],
+    "ocr_text": "角獸帽",
+    "ocr_conf": 0.997,
+    "fuzzy_match": "巨角獸帽",
+    "fuzzy_score": 0.857,
+    "human_label": "",
+    "verified": false
+  },
+  {
+    "file": "f003_007_white_760x136_112x27.png",
+    "color": "white",
+    "auto_label": "強效生命藥水",
+    "confidence": "HIGH",
+    "emb_top1": "強效生命藥水",
+    "emb_score": 0.97,
+    "emb_top3": [
+      [
+        "強效生命藥水",
+        0.97
+      ],
+      [
+        "弱效生命藥水",
+        0.963
+      ],
+      [
+        "輕效生命藥水",
+        0.96
+      ]
+    ],
+    "ocr_text": "強效生命藥水",
+    "ocr_conf": 0.994,
+    "fuzzy_match": "強效生命藥水",
+    "fuzzy_score": 1.0,
+    "human_label": "",
+    "verified": false
+  },
+  {
+    "file": "f003_008_white_797x114_109x27.png",
+    "color": "white",
+    "auto_label": "特效法力藥水",
+    "confidence": "HIGH",
+    "emb_top1": "特效法力藥水",
+    "emb_score": 0.971,
+    "emb_top3": [
+      [
+        "特效法力藥水",
+        0.971
+      ],
+      [
+        "強效法力藥水",
+        0.961
+      ],
+      [
+        "弱效法力藥水",
+        0.958
+      ]
+    ],
+    "ocr_text": "特效法力藥水",
+    "ocr_conf": 0.977,
+    "fuzzy_match": "特效法力藥水",
+    "fuzzy_score": 1.0,
+    "human_label": "",
+    "verified": false
+  },
+  {
+    "file": "f003_009_white_796x68_108x26.png",
+    "color": "white",
+    "auto_label": "強效生命藥水",
+    "confidence": "HIGH",
+    "emb_top1": "強效生命藥水",
+    "emb_score": 0.982,
+    "emb_top3": [
+      [
+        "強效生命藥水",
+        0.982
+      ],
+      [
+        "弱效生命藥水",
+        0.974
+      ],
+      [
+        "特效生命藥水",
+        0.97
+      ]
+    ],
+    "ocr_text": "強效生命藥水",
+    "ocr_conf": 0.933,
+    "fuzzy_match": "強效生命藥水",
+    "fuzzy_score": 1.0,
+    "human_label": "",
+    "verified": false
+  },
+  {
+    "file": "f003_010_white_764x23_48x26.png",
+    "color": "white",
+    "auto_label": "護脛",
+    "confidence": "HIGH",
+    "emb_top1": "護脛",
+    "emb_score": 0.963,
+    "emb_top3": [
+      [
+        "護脛",
+        0.963
+      ],
+      [
+        "勇士護脛",
+        0.921
+      ],
+      [
+        "護甲",
+        0.91
+      ]
+    ],
+    "ocr_text": "護脛",
+    "ocr_conf": 0.995,
+    "fuzzy_match": "護脛",
+    "fuzzy_score": 1.0,
+    "human_label": "",
+    "verified": false
+  },
+  {
+    "file": "f003_011_blue_355x471_73x27.png",
+    "color": "blue",
+    "auto_label": "小型咒符",
+    "confidence": "HIGH",
+    "emb_top1": "小型咒符",
+    "emb_score": 0.947,
+    "emb_top3": [
+      [
+        "小型咒符",
+        0.947
+      ],
+      [
+        "大型咒符",
+        0.921
+      ],
+      [
+        "武器：攻擊附加火焰傷害",
+        0.904
+      ]
+    ],
+    "ocr_text": "小型咒竹",
+    "ocr_conf": 0.055,
+    "fuzzy_match": "小型咒符",
+    "fuzzy_score": 0.75,
+    "human_label": "",
+    "verified": false
+  },
+  {
+    "file": "f003_012_blue_544x292_47x26.png",
+    "color": "blue",
+    "auto_label": "珠寶",
+    "confidence": "HIGH",
+    "emb_top1": "珠寶",
+    "emb_score": 0.952,
+    "emb_top3": [
+      [
+        "珠寶",
+        0.952
+      ],
+      [
+        "瑕疵紫寶石",
+        0.913
+      ],
+      [
+        "瑕疵綠寶石",
+        0.903
+      ]
+    ],
+    "ocr_text": "珠實",
+    "ocr_conf": 0.66,
+    "fuzzy_match": "串珠",
+    "fuzzy_score": 0.5,
+    "human_label": "",
+    "verified": false
+  },
+  {
+    "file": "f003_013_blue_836x182_40x27.png",
+    "color": "blue",
+    "auto_label": "戒指",
+    "confidence": "MED",
+    "emb_top1": "戒指",
+    "emb_score": 0.908,
+    "emb_top3": [
+      [
+        "戒指",
+        0.908
+      ],
+      [
+        "冰晶",
+        0.88
+      ],
+      [
+        "鐵扣",
+        0.874
+      ]
+    ],
+    "ocr_text": "戒指",
+    "ocr_conf": 0.654,
+    "fuzzy_match": "戒指",
+    "fuzzy_score": 1.0,
+    "human_label": "",
+    "verified": false
+  },
+  {
+    "file": "f003_014_blue_774x91_64x27.png",
+    "color": "blue",
+    "auto_label": "次元刃",
+    "confidence": "MED",
+    "emb_top1": "次元刃",
+    "emb_score": 0.924,
+    "emb_top3": [
+      [
+        "次元刃",
+        0.924
+      ],
+      [
+        "腕刃",
+        0.892
+      ],
+      [
+        "風之力",
+        0.89
+      ]
+    ],
+    "ocr_text": "次元刃",
+    "ocr_conf": 0.942,
+    "fuzzy_match": "次元刃",
+    "fuzzy_score": 1.0,
+    "human_label": "",
+    "verified": false
+  },
+  {
+    "file": "f003_015_blue_756x44_80x27.png",
+    "color": "blue",
+    "auto_label": "儀禮長矛",
+    "confidence": "HIGH",
+    "emb_top1": "儀禮長矛",
+    "emb_score": 0.949,
+    "emb_top3": [
+      [
+        "儀禮長矛",
+        0.949
+      ],
+      [
+        "儀禮弓",
+        0.93
+      ],
+      [
+        "儀禮長槍",
+        0.928
+      ]
+    ],
+    "ocr_text": "儀禮長矛",
+    "ocr_conf": 0.972,
+    "fuzzy_match": "儀禮長矛",
+    "fuzzy_score": 1.0,
+    "human_label": "",
+    "verified": false
+  },
+  {
+    "file": "f003_016_yellow_395x519_63x26.png",
+    "color": "yellow",
+    "auto_label": "護身符",
+    "confidence": "HIGH",
+    "emb_top1": "護身符",
+    "emb_score": 0.973,
+    "emb_top3": [
+      [
+        "護身符",
+        0.973
+      ],
+      [
+        "護符",
+        0.941
+      ],
+      [
+        "守護",
+        0.929
+      ]
+    ],
+    "ocr_text": "護身符",
+    "ocr_conf": 0.904,
+    "fuzzy_match": "護身符",
+    "fuzzy_score": 1.0,
+    "human_label": "",
+    "verified": false
+  },
+  {
+    "file": "f003_017_yellow_564x315_47x27.png",
+    "color": "yellow",
+    "auto_label": "戒指",
+    "confidence": "HIGH",
+    "emb_top1": "戒指",
+    "emb_score": 0.955,
+    "emb_top3": [
+      [
+        "戒指",
+        0.955
+      ],
+      [
+        "排齒",
+        0.901
+      ],
+      [
+        "鐵扣",
+        0.898
+      ]
+    ],
+    "ocr_text": "戒指",
+    "ocr_conf": 0.941,
+    "fuzzy_match": "戒指",
+    "fuzzy_score": 1.0,
+    "human_label": "",
+    "verified": false
+  },
+  {
+    "file": "f003_018_yellow_567x269_63x27.png",
+    "color": "yellow",
+    "auto_label": "護身符",
+    "confidence": "MED",
+    "emb_top1": "護身符",
+    "emb_score": 0.94,
+    "emb_top3": [
+      [
+        "護身符",
+        0.94
+      ],
+      [
+        "護符",
+        0.903
+      ],
+      [
+        "身體護甲",
+        0.898
+      ]
+    ],
+    "ocr_text": "護身符",
+    "ocr_conf": 0.799,
+    "fuzzy_match": "護身符",
+    "fuzzy_score": 1.0,
+    "human_label": "",
+    "verified": false
+  },
+  {
+    "file": "f003_019_gold_374x495_80x27.png",
+    "color": "gold",
+    "auto_label": "魔皮長靴",
+    "confidence": "HIGH",
+    "emb_top1": "魔皮長靴",
+    "emb_score": 0.943,
+    "emb_top3": [
+      [
+        "魔皮長靴",
+        0.943
+      ],
+      [
+        "皮靴",
+        0.929
+      ],
+      [
+        "魔皮護甲",
+        0.923
+      ]
+    ],
+    "ocr_text": "魔皮長靴",
+    "ocr_conf": 0.993,
+    "fuzzy_match": "魔皮長靴",
+    "fuzzy_score": 1.0,
+    "human_label": "",
+    "verified": false
+  },
+  {
+    "file": "f003_020_orange_505x575_36x25.png",
+    "color": "orange",
+    "auto_label": "爪",
+    "confidence": "LOW",
+    "emb_top1": "爪",
+    "emb_score": 0.543,
+    "emb_top3": [
+      [
+        "爪",
+        0.543
+      ],
+      [
+        "護甲：",
+        0.542
+      ],
+      [
+        "盾牌：",
+        0.528
+      ]
+    ],
+    "ocr_text": "",
+    "ocr_conf": 0,
+    "fuzzy_match": "",
+    "fuzzy_score": 0,
+    "human_label": "",
+    "verified": false
+  },
+  {
+    "file": "f005_001_white_43x695_43x23.png",
+    "color": "white",
+    "auto_label": "弓矢",
+    "confidence": "HIGH",
+    "emb_top1": "弓矢",
+    "emb_score": 0.959,
+    "emb_top3": [
+      [
+        "弓矢",
+        0.959
+      ],
+      [
+        "短弓",
+        0.906
+      ],
+      [
+        "主母之弓",
+        0.898
+      ]
+    ],
+    "ocr_text": "弓矢",
+    "ocr_conf": 0.968,
+    "fuzzy_match": "弓矢",
+    "fuzzy_score": 1.0,
+    "human_label": "",
+    "verified": false
+  },
+  {
+    "file": "f005_002_white_755x378_47x27.png",
+    "color": "white",
+    "auto_label": "弓矢",
+    "confidence": "HIGH",
+    "emb_top1": "弓矢",
+    "emb_score": 0.949,
+    "emb_top3": [
+      [
+        "弓矢",
+        0.949
+      ],
+      [
+        "符文弓",
+        0.899
+      ],
+      [
+        "女傑之弓",
+        0.898
+      ]
+    ],
+    "ocr_text": "弓矢",
+    "ocr_conf": 0.985,
+    "fuzzy_match": "弓矢",
+    "fuzzy_score": 1.0,
+    "human_label": "",
+    "verified": false
+  },
+  {
+    "file": "f005_003_white_638x378_64x26.png",
+    "color": "white",
+    "auto_label": "征戰斧",
+    "confidence": "HIGH",
+    "emb_top1": "征戰斧",
+    "emb_score": 0.96,
+    "emb_top3": [
+      [
+        "征戰斧",
+        0.96
+      ],
+      [
+        "狂戰斧",
+        0.937
+      ],
+      [
+        "征戰腰帶",
+        0.933
+      ]
+    ],
+    "ocr_text": "征戰斧",
+    "ocr_conf": 0.994,
+    "fuzzy_match": "征戰斧",
+    "fuzzy_score": 1.0,
+    "human_label": "",
+    "verified": false
+  },
+  {
+    "file": "f005_004_white_702x336_113x27.png",
+    "color": "white",
+    "auto_label": "特效生命藥水",
+    "confidence": "HIGH",
+    "emb_top1": "特效生命藥水",
+    "emb_score": 0.971,
+    "emb_top3": [
+      [
+        "特效生命藥水",
+        0.971
+      ],
+      [
+        "強效生命藥水",
+        0.96
+      ],
+      [
+        "弱效生命藥水",
+        0.96
+      ]
+    ],
+    "ocr_text": "畤效生命藥水",
+    "ocr_conf": 0.535,
+    "fuzzy_match": "弱效生命藥水",
+    "fuzzy_score": 0.833,
+    "human_label": "",
+    "verified": false
+  },
+  {
+    "file": "f005_005_white_794x333_80x26.png",
+    "color": "white",
+    "auto_label": "戰鬥長劍",
+    "confidence": "HIGH",
+    "emb_top1": "戰鬥長劍",
+    "emb_score": 0.969,
+    "emb_top3": [
+      [
+        "戰鬥長劍",
+        0.969
+      ],
+      [
+        "戰鬥飛鏢",
+        0.939
+      ],
+      [
+        "戰鬥鐮刀",
+        0.938
+      ]
+    ],
+    "ocr_text": "戰鬥長劍",
+    "ocr_conf": 0.984,
+    "fuzzy_match": "戰鬥長劍",
+    "fuzzy_score": 1.0,
+    "human_label": "",
+    "verified": false
+  },
+  {
+    "file": "f005_006_white_644x313_112x27.png",
+    "color": "white",
+    "auto_label": "強效生命藥水",
+    "confidence": "HIGH",
+    "emb_top1": "強效生命藥水",
+    "emb_score": 0.963,
+    "emb_top3": [
+      [
+        "強效生命藥水",
+        0.963
+      ],
+      [
+        "弱效生命藥水",
+        0.955
+      ],
+      [
+        "特效生命藥水",
+        0.953
+      ]
+    ],
+    "ocr_text": "強效生命藥水",
+    "ocr_conf": 0.994,
+    "fuzzy_match": "強效生命藥水",
+    "fuzzy_score": 1.0,
+    "human_label": "",
+    "verified": false
+  },
+  {
+    "file": "f005_007_white_684x290_113x27.png",
+    "color": "white",
+    "auto_label": "特效法力藥水",
+    "confidence": "HIGH",
+    "emb_top1": "特效法力藥水",
+    "emb_score": 0.969,
+    "emb_top3": [
+      [
+        "特效法力藥水",
+        0.969
+      ],
+      [
+        "強效法力藥水",
+        0.96
+      ],
+      [
+        "弱效法力藥水",
+        0.957
+      ]
+    ],
+    "ocr_text": "特效法力藥水",
+    "ocr_conf": 0.976,
+    "fuzzy_match": "特效法力藥水",
+    "fuzzy_score": 1.0,
+    "human_label": "",
+    "verified": false
+  },
+  {
+    "file": "f005_008_white_811x272_63x27.png",
+    "color": "white",
+    "auto_label": "寶石",
+    "confidence": "MED",
+    "emb_top1": "寶石",
+    "emb_score": 0.925,
+    "emb_top3": [
+      [
+        "寶石",
+        0.925
+      ],
+      [
+        "無瑕紅寶石",
+        0.917
+      ],
+      [
+        "瑕疵紅寶石",
+        0.916
+      ]
+    ],
+    "ocr_text": "紅實石",
+    "ocr_conf": 0.874,
+    "fuzzy_match": "完美紅寶石",
+    "fuzzy_score": 0.5,
+    "human_label": "",
+    "verified": false
+  },
+  {
+    "file": "f005_009_white_732x267_81x27.png",
+    "color": "white",
+    "auto_label": "巨角獸帽",
+    "confidence": "HIGH",
+    "emb_top1": "巨角獸帽",
+    "emb_score": 0.958,
+    "emb_top3": [
+      [
+        "巨角獸帽",
+        0.958
+      ],
+      [
+        "顱帽",
+        0.919
+      ],
+      [
+        "軍帽",
+        0.917
+      ]
+    ],
+    "ocr_text": "巨角獸帽",
+    "ocr_conf": 0.997,
+    "fuzzy_match": "巨角獸帽",
+    "fuzzy_score": 1.0,
+    "human_label": "",
+    "verified": false
+  },
+  {
+    "file": "f005_010_white_682x244_112x27.png",
+    "color": "white",
+    "auto_label": "強效生命藥水",
+    "confidence": "HIGH",
+    "emb_top1": "強效生命藥水",
+    "emb_score": 0.97,
+    "emb_top3": [
+      [
+        "強效生命藥水",
+        0.97
+      ],
+      [
+        "弱效生命藥水",
+        0.963
+      ],
+      [
+        "特效生命藥水",
+        0.958
+      ]
+    ],
+    "ocr_text": "強效生命藥水",
+    "ocr_conf": 0.997,
+    "fuzzy_match": "強效生命藥水",
+    "fuzzy_score": 1.0,
+    "human_label": "",
+    "verified": false
+  },
+  {
+    "file": "f005_011_white_623x221_81x27.png",
+    "color": "white",
+    "auto_label": "活力藥水",
+    "confidence": "HIGH",
+    "emb_top1": "活力藥水",
+    "emb_score": 0.961,
+    "emb_top3": [
+      [
+        "活力藥水",
+        0.961
+      ],
+      [
+        "法力藥水",
+        0.95
+      ],
+      [
+        "弱效法力藥水",
+        0.933
+      ]
+    ],
+    "ocr_text": "活力藥水",
+    "ocr_conf": 0.996,
+    "fuzzy_match": "活力藥水",
+    "fuzzy_score": 1.0,
+    "human_label": "",
+    "verified": false
+  },
+  {
+    "file": "f005_012_white_626x198_76x27.png",
+    "color": "white",
+    "auto_label": "活力藥水",
+    "confidence": "HIGH",
+    "emb_top1": "活力藥水",
+    "emb_score": 0.961,
+    "emb_top3": [
+      [
+        "活力藥水",
+        0.961
+      ],
+      [
+        "法力藥水",
+        0.948
+      ],
+      [
+        "弱效法力藥水",
+        0.938
+      ]
+    ],
+    "ocr_text": "活力藥水",
+    "ocr_conf": 0.998,
+    "fuzzy_match": "活力藥水",
+    "fuzzy_score": 1.0,
+    "human_label": "",
+    "verified": false
+  },
+  {
+    "file": "f005_013_white_649x152_49x27.png",
+    "color": "white",
+    "auto_label": "護脛",
+    "confidence": "MED",
+    "emb_top1": "護脛",
+    "emb_score": 0.939,
+    "emb_top3": [
+      [
+        "護脛",
+        0.939
+      ],
+      [
+        "勇士護脛",
+        0.9
+      ],
+      [
+        "輕風",
+        0.894
+      ]
+    ],
+    "ocr_text": "護脛",
+    "ocr_conf": 0.988,
+    "fuzzy_match": "護脛",
+    "fuzzy_score": 1.0,
+    "human_label": "",
+    "verified": false
+  },
+  {
+    "file": "f005_014_blue_429x523_47x25.png",
+    "color": "blue",
+    "auto_label": "珠寶",
+    "confidence": "HIGH",
+    "emb_top1": "珠寶",
+    "emb_score": 0.976,
+    "emb_top3": [
+      [
+        "珠寶",
+        0.976
+      ],
+      [
+        "瑕疵紫寶石",
+        0.925
+      ],
+      [
+        "串珠",
+        0.925
+      ]
+    ],
+    "ocr_text": "珠實",
+    "ocr_conf": 0.512,
+    "fuzzy_match": "串珠",
+    "fuzzy_score": 0.5,
+    "human_label": "",
+    "verified": false
+  },
+  {
+    "file": "f005_015_blue_720x359_41x27.png",
+    "color": "blue",
+    "auto_label": "戒指",
+    "confidence": "MED",
+    "emb_top1": "戒指",
+    "emb_score": 0.886,
+    "emb_top3": [
+      [
+        "戒指",
+        0.886
+      ],
+      [
+        "護盾：提高火焰抗性",
+        0.873
+      ],
+      [
+        "護盾：提高冰寒抗性",
+        0.869
+      ]
+    ],
+    "ocr_text": "",
+    "ocr_conf": 0,
+    "fuzzy_match": "",
+    "fuzzy_score": 0,
+    "human_label": "",
+    "verified": false
+  },
+  {
+    "file": "f005_016_blue_659x267_64x27.png",
+    "color": "blue",
+    "auto_label": "次元刃",
+    "confidence": "MED",
+    "emb_top1": "次元刃",
+    "emb_score": 0.926,
+    "emb_top3": [
+      [
+        "次元刃",
+        0.926
+      ],
+      [
+        "風之力",
+        0.889
+      ],
+      [
+        "炎魔之刃",
+        0.887
+      ]
+    ],
+    "ocr_text": "欠元刃",
+    "ocr_conf": 0.842,
+    "fuzzy_match": "次元刃",
+    "fuzzy_score": 0.667,
+    "human_label": "",
+    "verified": false
+  },
+  {
+    "file": "f005_017_blue_640x175_81x27.png",
+    "color": "blue",
+    "auto_label": "儀禮長矛",
+    "confidence": "MED",
+    "emb_top1": "儀禮長矛",
+    "emb_score": 0.935,
+    "emb_top3": [
+      [
+        "儀禮長矛",
+        0.935
+      ],
+      [
+        "儀禮弓",
+        0.911
+      ],
+      [
+        "儀禮長槍",
+        0.91
+      ]
+    ],
+    "ocr_text": "儀禮長矛",
+    "ocr_conf": 0.916,
+    "fuzzy_match": "儀禮長矛",
+    "fuzzy_score": 1.0,
+    "human_label": "",
+    "verified": false
+  },
+  {
+    "file": "f005_018_gold_721x221_64x27.png",
+    "color": "gold",
+    "auto_label": "雙曲弓",
+    "confidence": "HIGH",
+    "emb_top1": "雙曲弓",
+    "emb_score": 0.945,
+    "emb_top3": [
+      [
+        "雙曲弓",
+        0.945
+      ],
+      [
+        "勇士護脛",
+        0.887
+      ],
+      [
+        "寶典",
+        0.885
+      ]
+    ],
+    "ocr_text": "雙曲弓",
+    "ocr_conf": 0.995,
+    "fuzzy_match": "雙曲弓",
+    "fuzzy_score": 1.0,
+    "human_label": "",
+    "verified": false
+  },
+  {
+    "file": "f005_019_gold_735x199_48x26.png",
+    "color": "gold",
+    "auto_label": "輕弩",
+    "confidence": "HIGH",
+    "emb_top1": "輕弩",
+    "emb_score": 0.962,
+    "emb_top3": [
+      [
+        "輕弩",
+        0.962
+      ],
+      [
+        "輕斧",
+        0.917
+      ],
+      [
+        "連弩",
+        0.913
+      ]
+    ],
+    "ocr_text": "輕",
+    "ocr_conf": 0.997,
+    "fuzzy_match": "年輕",
+    "fuzzy_score": 0.667,
+    "human_label": "",
+    "verified": false
+  },
+  {
+    "file": "f005_020_orange_811x356_113x26.png",
+    "color": "orange",
+    "auto_label": "符文：伐克斯",
+    "confidence": "HIGH",
+    "emb_top1": "符文：伐克斯",
+    "emb_score": 0.983,
+    "emb_top3": [
+      [
+        "符文：伐克斯",
+        0.983
+      ],
+      [
+        "符文：艾爾",
+        0.954
+      ],
+      [
+        "伐克斯",
+        0.951
+      ]
+    ],
+    "ocr_text": "符文:伐克斯",
+    "ocr_conf": 0.562,
+    "fuzzy_match": "符文：伐克斯",
+    "fuzzy_score": 0.833,
+    "human_label": "",
+    "verified": false
+  },
+  {
+    "file": "f005_021_orange_720x110_29x21.png",
+    "color": "orange",
+    "auto_label": "頭盔：",
+    "confidence": "LOW",
+    "emb_top1": "頭盔：",
+    "emb_score": 0.805,
+    "emb_top3": [
+      [
+        "頭盔：",
+        0.805
+      ],
+      [
+        "護甲：",
+        0.804
+      ],
+      [
+        "盾牌：",
+        0.801
+      ]
+    ],
+    "ocr_text": "",
+    "ocr_conf": 0,
+    "fuzzy_match": "",
+    "fuzzy_score": 0,
+    "human_label": "",
+    "verified": false
+  },
+  {
+    "file": "f006_001_white_92x271_33x21.png",
+    "color": "white",
+    "auto_label": "護甲：",
+    "confidence": "LOW",
+    "emb_top1": "護甲：",
+    "emb_score": 0.8,
+    "emb_top3": [
+      [
+        "護甲：",
+        0.8
+      ],
+      [
+        "盾牌：",
+        0.8
+      ],
+      [
+        "頭盔：",
+        0.784
+      ]
+    ],
+    "ocr_text": "",
+    "ocr_conf": 0,
+    "fuzzy_match": "",
+    "fuzzy_score": 0,
+    "human_label": "",
+    "verified": false
+  },
+  {
+    "file": "f006_002_blue_92x272_41x24.png",
+    "color": "blue",
+    "auto_label": "頭盔：",
+    "confidence": "LOW",
+    "emb_top1": "頭盔：",
+    "emb_score": 0.688,
+    "emb_top3": [
+      [
+        "頭盔：",
+        0.688
+      ],
+      [
+        "護甲：",
+        0.685
+      ],
+      [
+        "盾牌：",
+        0.679
+      ]
+    ],
+    "ocr_text": "",
+    "ocr_conf": 0,
+    "fuzzy_match": "",
+    "fuzzy_score": 0,
+    "human_label": "",
+    "verified": false
+  },
+  {
+    "file": "f006_003_blue_89x258_38x26.png",
+    "color": "blue",
+    "auto_label": "護甲：",
+    "confidence": "LOW",
+    "emb_top1": "護甲：",
+    "emb_score": 0.685,
+    "emb_top3": [
+      [
+        "護甲：",
+        0.685
+      ],
+      [
+        "盾牌：",
+        0.681
+      ],
+      [
+        "武器：",
+        0.677
+      ]
+    ],
+    "ocr_text": "",
+    "ocr_conf": 0,
+    "fuzzy_match": "",
+    "fuzzy_score": 0,
+    "human_label": "",
+    "verified": false
+  },
+  {
+    "file": "f006_004_orange_505x492_35x18.png",
+    "color": "orange",
+    "auto_label": "護甲：",
+    "confidence": "LOW",
+    "emb_top1": "護甲：",
+    "emb_score": 0.839,
+    "emb_top3": [
+      [
+        "護甲：",
+        0.839
+      ],
+      [
+        "盾牌：",
+        0.834
+      ],
+      [
+        "貝",
+        0.826
+      ]
+    ],
+    "ocr_text": "",
+    "ocr_conf": 0,
+    "fuzzy_match": "",
+    "fuzzy_score": 0,
+    "human_label": "",
+    "verified": false
+  },
+  {
+    "file": "f006_005_orange_562x375_97x46.png",
+    "color": "orange",
+    "auto_label": "無瑕紫寶石",
+    "confidence": "LOW",
+    "emb_top1": "無瑕紫寶石",
+    "emb_score": 0.812,
+    "emb_top3": [
+      [
+        "無瑕紫寶石",
+        0.812
+      ],
+      [
+        "惡魔機弩",
+        0.807
+      ],
+      [
+        "漆黑裂口",
+        0.802
+      ]
+    ],
+    "ocr_text": "乃文:藍姆 符文:鳥姆",
+    "ocr_conf": 0.243,
+    "fuzzy_match": "符文：安姆",
+    "fuzzy_score": 0.375,
+    "human_label": "",
+    "verified": false
+  },
+  {
+    "file": "f006_006_orange_467x336_95x27.png",
+    "color": "orange",
+    "auto_label": "符文：法爾",
+    "confidence": "HIGH",
+    "emb_top1": "符文：法爾",
+    "emb_score": 0.964,
+    "emb_top3": [
+      [
+        "符文：法爾",
+        0.964
+      ],
+      [
+        "符文：古爾",
+        0.949
+      ],
+      [
+        "符文：拉爾",
+        0.947
+      ]
+    ],
+    "ocr_text": "符文:法爾",
+    "ocr_conf": 0.631,
+    "fuzzy_match": "符文：法爾",
+    "fuzzy_score": 0.8,
+    "human_label": "",
+    "verified": false
+  },
+  {
+    "file": "f006_007_orange_486x314_95x27.png",
+    "color": "orange",
+    "auto_label": "符文：藍姆",
+    "confidence": "HIGH",
+    "emb_top1": "符文：藍姆",
+    "emb_score": 0.956,
+    "emb_top3": [
+      [
+        "符文：藍姆",
+        0.956
+      ],
+      [
+        "符文：盧姆",
+        0.956
+      ],
+      [
+        "符文：烏姆",
+        0.943
+      ]
+    ],
+    "ocr_text": "符文 藍姆",
+    "ocr_conf": 0.558,
+    "fuzzy_match": "符文：藍姆",
+    "fuzzy_score": 0.8,
+    "human_label": "",
+    "verified": false
+  },
+  {
+    "file": "f006_008_orange_523x291_97x27.png",
+    "color": "orange",
+    "auto_label": "符文：普爾",
+    "confidence": "HIGH",
+    "emb_top1": "符文：普爾",
+    "emb_score": 0.962,
+    "emb_top3": [
+      [
+        "符文：普爾",
+        0.962
+      ],
+      [
+        "符文：書爾",
+        0.952
+      ],
+      [
+        "符文：古爾",
+        0.952
+      ]
+    ],
+    "ocr_text": "符文:普爾",
+    "ocr_conf": 0.061,
+    "fuzzy_match": "符文：普爾",
+    "fuzzy_score": 0.8,
+    "human_label": "",
+    "verified": false
+  },
+  {
+    "file": "f006_009_orange_543x268_97x27.png",
+    "color": "orange",
+    "auto_label": "符文：馬爾",
+    "confidence": "HIGH",
+    "emb_top1": "符文：馬爾",
+    "emb_score": 0.96,
+    "emb_top3": [
+      [
+        "符文：馬爾",
+        0.96
+      ],
+      [
+        "符文：貝",
+        0.937
+      ],
+      [
+        "符文：古爾",
+        0.932
+      ]
+    ],
+    "ocr_text": "府文 馬雨",
+    "ocr_conf": 0.42,
+    "fuzzy_match": "符文：馬爾",
+    "fuzzy_score": 0.4,
+    "human_label": "",
+    "verified": false
+  },
+  {
+    "file": "f006_010_orange_429x163_39x26.png",
+    "color": "orange",
+    "auto_label": "盾牌：",
+    "confidence": "LOW",
+    "emb_top1": "盾牌：",
+    "emb_score": 0.714,
+    "emb_top3": [
+      [
+        "盾牌：",
+        0.714
+      ],
+      [
+        "護甲：",
+        0.708
+      ],
+      [
+        "武器：",
+        0.693
+      ]
+    ],
+    "ocr_text": "",
+    "ocr_conf": 0,
+    "fuzzy_match": "",
+    "fuzzy_score": 0,
+    "human_label": "",
+    "verified": false
+  },
+  {
+    "file": "f008_001_white_678x418_112x27.png",
+    "color": "white",
+    "auto_label": "城鎮傳送之書",
+    "confidence": "HIGH",
+    "emb_top1": "城鎮傳送之書",
+    "emb_score": 0.952,
+    "emb_top3": [
+      [
+        "城鎮傳送之書",
+        0.952
+      ],
+      [
+        "城鎮傳送卷軸",
+        0.915
+      ],
+      [
+        "基德的賭注",
+        0.915
+      ]
+    ],
+    "ocr_text": "城鎮傳送之書",
+    "ocr_conf": 0.782,
+    "fuzzy_match": "城鎮傳送之書",
+    "fuzzy_score": 1.0,
+    "human_label": "",
+    "verified": false
+  },
+  {
+    "file": "f008_002_blue_700x441_44x27.png",
+    "color": "blue",
+    "auto_label": "戒指",
+    "confidence": "HIGH",
+    "emb_top1": "戒指",
+    "emb_score": 0.949,
+    "emb_top3": [
+      [
+        "戒指",
+        0.949
+      ],
+      [
+        "排齒",
+        0.901
+      ],
+      [
+        "鐵扣",
+        0.898
+      ]
+    ],
+    "ocr_text": "戒指",
+    "ocr_conf": 0.344,
+    "fuzzy_match": "戒指",
+    "fuzzy_score": 1.0,
+    "human_label": "",
+    "verified": false
+  },
+  {
+    "file": "f008_003_yellow_985x376_39x24.png",
+    "color": "yellow",
+    "auto_label": "護甲：",
+    "confidence": "LOW",
+    "emb_top1": "護甲：",
+    "emb_score": 0.638,
+    "emb_top3": [
+      [
+        "護甲：",
+        0.638
+      ],
+      [
+        "盾牌：",
+        0.637
+      ],
+      [
+        "頭盔：",
+        0.622
+      ]
+    ],
+    "ocr_text": "",
+    "ocr_conf": 0,
+    "fuzzy_match": "",
+    "fuzzy_score": 0,
+    "human_label": "",
+    "verified": false
+  },
+  {
+    "file": "f008_004_yellow_716x241_35x25.png",
+    "color": "yellow",
+    "auto_label": "護甲：",
+    "confidence": "LOW",
+    "emb_top1": "護甲：",
+    "emb_score": 0.698,
+    "emb_top3": [
+      [
+        "護甲：",
+        0.698
+      ],
+      [
+        "盾牌：",
+        0.696
+      ],
+      [
+        "頭盔：",
+        0.686
+      ]
+    ],
+    "ocr_text": "",
+    "ocr_conf": 0,
+    "fuzzy_match": "",
+    "fuzzy_score": 0,
+    "human_label": "",
+    "verified": false
+  },
+  {
+    "file": "f008_005_gold_929x498_60x30.png",
+    "color": "gold",
+    "auto_label": "護甲：",
+    "confidence": "LOW",
+    "emb_top1": "護甲：",
+    "emb_score": 0.764,
+    "emb_top3": [
+      [
+        "護甲：",
+        0.764
+      ],
+      [
+        "盾牌：",
+        0.759
+      ],
+      [
+        "武器：",
+        0.737
+      ]
+    ],
+    "ocr_text": "",
+    "ocr_conf": 0,
+    "fuzzy_match": "",
+    "fuzzy_score": 0,
+    "human_label": "",
+    "verified": false
+  }
+]
