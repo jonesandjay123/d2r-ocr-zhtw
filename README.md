@@ -145,6 +145,52 @@ d2r-ocr-zhtw/
 - **符文專用子庫**：橘色 contour 只在符文清單中比對，提高短名辨識率
 - **crop 放大重採樣**：小圖 2× upscale 後再送 embedding
 
+## ⚡ Quickstart（三條命令跑出結果）
+
+```bash
+# 1. 安裝依賴
+pip install easyocr pillow numpy torch
+
+# 2. 建立 prototype 向量庫（首次需要，約 3 分鐘）
+python emb/build_prototypes.py
+# → 產出 emb/artifacts/prototypes.npz (1874×1536) + id_map.json
+
+# 3. 用真實 crop 跑評估
+python emb/eval_real_crops.py
+# → 印出 Top-1/Top-5 命中率、門檻效果
+```
+
+> **注意：** `emb/artifacts/` 已 commit 到 repo，clone 後可直接跑步驟 3。
+> 若需重新生成（例如修改渲染參數），再跑步驟 2。
+> 生成結果受 EasyOCR 模型版本影響，渲染參數以 `emb/build_prototypes.py` 的 `VARIANTS` 為準。
+
+## 🔌 Integration Contract（串接介面）
+
+整合到 bot 時，核心介面只有一個函數：
+
+```python
+def identify(crop_image: PIL.Image) -> tuple[str, float]:
+    """
+    輸入：單個物品的 crop 圖片（灰階，來自 HSV contour 裁切）
+    輸出：(label, score)
+      - label: 物品名（如「闊劍」）或 "UNKNOWN"
+      - score: 相似度 0~1
+    """
+```
+
+**決策規則（默認策略：寧可漏撿，不可錯撿）：**
+- `score >= 0.88` → 回傳物品名，交給 `loot_filter.json` 決策
+- `score < 0.88` → 回傳 `"UNKNOWN"`，bot 跳過不撿
+- （可選）加 margin：`top1_score - top2_score < 0.02` → `UNKNOWN`
+
+端到端流程（在 bot 中）：
+```
+frame → HSV contour → crop → identify(crop) → (label, score)
+  → if UNKNOWN: skip
+  → if label in loot_filter.json[color].names: pick up
+  → else: skip
+```
+
 ## 🔑 環境需求
 
 ```bash
