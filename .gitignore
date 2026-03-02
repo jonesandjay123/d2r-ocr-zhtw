@@ -1,8 +1,14 @@
 __pycache__/
 *.pyc
+.DS_Store
+
+# 訓練產物（不需要 commit）
 data/gt_overfit/
 data/gt_train/
 data/gt_eval/
 tesstrain/
 output/
 *.traineddata
+
+# Embedding artifacts 要 commit（是核心產物）
+# emb/artifacts/ → 需要 commit

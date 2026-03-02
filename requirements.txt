@@ -1,1 +1,5 @@
+# D2R 繁中物品辨識引擎
+easyocr>=1.7
 Pillow>=9.0
+numpy>=1.21
+torch>=1.9
