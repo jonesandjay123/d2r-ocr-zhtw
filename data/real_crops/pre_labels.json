@@ -24,8 +24,8 @@
     "ocr_conf": 0,
     "fuzzy_match": "",
     "fuzzy_score": 0,
-    "human_label": "",
-    "verified": false
+    "human_label": "UNKNOWN",
+    "verified": true
   },
   {
     "file": "f002_001_white_459x575_42x25.png",
@@ -52,8 +52,8 @@
     "ocr_conf": 0.99,
     "fuzzy_match": "鉤斧",
     "fuzzy_score": 1.0,
-    "human_label": "",
-    "verified": false
+    "human_label": "鉤斧",
+    "verified": true
   },
   {
     "file": "f002_002_white_552x538_45x25.png",
@@ -80,8 +80,8 @@
     "ocr_conf": 0.976,
     "fuzzy_match": "弩箭",
     "fuzzy_score": 1.0,
-    "human_label": "",
-    "verified": false
+    "human_label": "弩箭",
+    "verified": true
   },
   {
     "file": "f002_003_white_466x531_82x27.png",
@@ -108,8 +108,8 @@
     "ocr_conf": 0.992,
     "fuzzy_match": "金紋盾",
     "fuzzy_score": 0.25,
-    "human_label": "",
-    "verified": false
+    "human_label": "UNKNOWN",
+    "verified": true
   },
   {
     "file": "f002_004_white_506x508_78x26.png",
@@ -136,8 +136,8 @@
     "ocr_conf": 0.988,
     "fuzzy_match": "征戰短弓",
     "fuzzy_score": 1.0,
-    "human_label": "",
-    "verified": false
+    "human_label": "征戰短弓",
+    "verified": true
   },
   {
     "file": "f002_005_white_433x508_63x26.png",
@@ -164,8 +164,8 @@
     "ocr_conf": 0.997,
     "fuzzy_match": "巨角獸帽",
     "fuzzy_score": 0.857,
-    "human_label": "",
-    "verified": false
+    "human_label": "巨角獸帽",
+    "verified": true
   },
   {
     "file": "f002_006_white_548x465_142x30.png",
@@ -192,8 +192,8 @@
     "ocr_conf": 0.958,
     "fuzzy_match": "攏煙之球",
     "fuzzy_score": 0.727,
-    "human_label": "",
-    "verified": false
+    "human_label": "攏煙之球",
+    "verified": true
   },
   {
     "file": "f002_007_white_45x388_43x23.png",
@@ -220,8 +220,8 @@
     "ocr_conf": 0.484,
     "fuzzy_match": "",
     "fuzzy_score": 0,
-    "human_label": "",
-    "verified": false
+    "human_label": "UNKNOWN",
+    "verified": true
   },
   {
     "file": "f002_008_white_81x388_41x26.png",
@@ -248,8 +248,8 @@
     "ocr_conf": 0.995,
     "fuzzy_match": "金紋盾",
     "fuzzy_score": 0.4,
-    "human_label": "",
-    "verified": false
+    "human_label": "UNKNOWN",
+    "verified": true
   },
   {
     "file": "f002_009_white_389x384_43x24.png",
@@ -276,8 +276,8 @@
     "ocr_conf": 0.962,
     "fuzzy_match": "弓矢",
     "fuzzy_score": 1.0,
-    "human_label": "",
-    "verified": false
+    "human_label": "弓矢",
+    "verified": true
   },
   {
     "file": "f002_010_white_973x99_38x23.png",
@@ -304,8 +304,8 @@
     "ocr_conf": 0.974,
     "fuzzy_match": "",
     "fuzzy_score": 0,
-    "human_label": "",
-    "verified": false
+    "human_label": "UNKNOWN",
+    "verified": true
   },
   {
     "file": "f002_011_white_1007x99_45x26.png",
@@ -332,8 +332,8 @@
     "ocr_conf": 0.995,
     "fuzzy_match": "金紋盾",
     "fuzzy_score": 0.4,
-    "human_label": "",
-    "verified": false
+    "human_label": "UNKNOWN",
+    "verified": true
   },
   {
     "file": "f002_012_white_1099x67_43x23.png",
@@ -360,8 +360,8 @@
     "ocr_conf": 0.973,
     "fuzzy_match": "弓矢",
     "fuzzy_score": 1.0,
-    "human_label": "",
-    "verified": false
+    "human_label": "弓矢",
+    "verified": true
   },
   {
     "file": "f002_013_white_984x67_62x26.png",
@@ -388,8 +388,8 @@
     "ocr_conf": 0.993,
     "fuzzy_match": "征戰斧",
     "fuzzy_score": 1.0,
-    "human_label": "",
-    "verified": false
+    "human_label": "征戰斧",
+    "verified": true
   },
   {
     "file": "f002_014_white_1138x45_77x26.png",
@@ -416,8 +416,8 @@
     "ocr_conf": 0.57,
     "fuzzy_match": "戰鬥長劍",
     "fuzzy_score": 0.75,
-    "human_label": "",
-    "verified": false
+    "human_label": "戰鬥長劍",
+    "verified": true
   },
   {
     "file": "f002_015_white_1048x26_110x26.png",
@@ -444,8 +444,8 @@
     "ocr_conf": 0.859,
     "fuzzy_match": "特效生命藥水",
     "fuzzy_score": 1.0,
-    "human_label": "",
-    "verified": false
+    "human_label": "特效生命藥水",
+    "verified": true
   },
   {
     "file": "f002_016_white_1086x8_63x11.png",
@@ -472,8 +472,8 @@
     "ocr_conf": 0,
     "fuzzy_match": "",
     "fuzzy_score": 0,
-    "human_label": "",
-    "verified": false
+    "human_label": "UNKNOWN",
+    "verified": true
   },
   {
     "file": "f002_017_white_1015x8_59x11.png",
@@ -500,8 +500,8 @@
     "ocr_conf": 0,
     "fuzzy_match": "",
     "fuzzy_score": 0,
-    "human_label": "",
-    "verified": false
+    "human_label": "UNKNOWN",
+    "verified": true
   },
   {
     "file": "f002_018_white_965x8_53x11.png",
@@ -528,8 +528,8 @@
     "ocr_conf": 0,
     "fuzzy_match": "",
     "fuzzy_score": 0,
-    "human_label": "",
-    "verified": false
+    "human_label": "UNKNOWN",
+    "verified": true
   },
   {
     "file": "f002_019_blue_563x489_49x27.png",
@@ -556,8 +556,8 @@
     "ocr_conf": 0.701,
     "fuzzy_match": "連枷",
     "fuzzy_score": 1.0,
-    "human_label": "",
-    "verified": false
+    "human_label": "連枷",
+    "verified": true
   },
   {
     "file": "f002_020_blue_1067x49_40x26.png",
@@ -584,8 +584,8 @@
     "ocr_conf": 0.786,
     "fuzzy_match": "戒指",
     "fuzzy_score": 1.0,
-    "human_label": "",
-    "verified": false
+    "human_label": "戒指",
+    "verified": true
   },
   {
     "file": "f003_001_white_159x518_43x23.png",
@@ -612,8 +612,8 @@
     "ocr_conf": 0.961,
     "fuzzy_match": "弓矢",
     "fuzzy_score": 1.0,
-    "human_label": "",
-    "verified": false
+    "human_label": "弓矢",
+    "verified": true
   },
   {
     "file": "f003_002_white_870x201_47x27.png",
@@ -640,8 +640,8 @@
     "ocr_conf": 0.991,
     "fuzzy_match": "弓矢",
     "fuzzy_score": 1.0,
-    "human_label": "",
-    "verified": false
+    "human_label": "弓矢",
+    "verified": true
   },
   {
     "file": "f003_003_white_752x201_62x26.png",
@@ -668,8 +668,8 @@
     "ocr_conf": 0.996,
     "fuzzy_match": "征戰斧",
     "fuzzy_score": 1.0,
-    "human_label": "",
-    "verified": false
+    "human_label": "征戰斧",
+    "verified": true
   },
   {
     "file": "f003_004_white_907x179_78x26.png",
@@ -696,8 +696,8 @@
     "ocr_conf": 0.558,
     "fuzzy_match": "戰鬥長劍",
     "fuzzy_score": 1.0,
-    "human_label": "",
-    "verified": false
+    "human_label": "戰鬥長劍",
+    "verified": true
   },
   {
     "file": "f003_005_white_817x159_112x27.png",
@@ -724,8 +724,8 @@
     "ocr_conf": 0.995,
     "fuzzy_match": "特效生命藥水",
     "fuzzy_score": 1.0,
-    "human_label": "",
-    "verified": false
+    "human_label": "特效生命藥水",
+    "verified": true
   },
   {
     "file": "f003_006_white_856x138_63x26.png",
@@ -752,8 +752,8 @@
     "ocr_conf": 0.997,
     "fuzzy_match": "巨角獸帽",
     "fuzzy_score": 0.857,
-    "human_label": "",
-    "verified": false
+    "human_label": "巨角獸帽",
+    "verified": true
   },
   {
     "file": "f003_007_white_760x136_112x27.png",
@@ -780,8 +780,8 @@
     "ocr_conf": 0.994,
     "fuzzy_match": "強效生命藥水",
     "fuzzy_score": 1.0,
-    "human_label": "",
-    "verified": false
+    "human_label": "強效生命藥水",
+    "verified": true
   },
   {
     "file": "f003_008_white_797x114_109x27.png",
@@ -808,8 +808,8 @@
     "ocr_conf": 0.977,
     "fuzzy_match": "特效法力藥水",
     "fuzzy_score": 1.0,
-    "human_label": "",
-    "verified": false
+    "human_label": "特效法力藥水",
+    "verified": true
   },
   {
     "file": "f003_009_white_796x68_108x26.png",
@@ -836,8 +836,8 @@
     "ocr_conf": 0.933,
     "fuzzy_match": "強效生命藥水",
     "fuzzy_score": 1.0,
-    "human_label": "",
-    "verified": false
+    "human_label": "強效生命藥水",
+    "verified": true
   },
   {
     "file": "f003_010_white_764x23_48x26.png",
@@ -864,8 +864,8 @@
     "ocr_conf": 0.995,
     "fuzzy_match": "護脛",
     "fuzzy_score": 1.0,
-    "human_label": "",
-    "verified": false
+    "human_label": "護脛",
+    "verified": true
   },
   {
     "file": "f003_011_blue_355x471_73x27.png",
@@ -892,8 +892,8 @@
     "ocr_conf": 0.055,
     "fuzzy_match": "小型咒符",
     "fuzzy_score": 0.75,
-    "human_label": "",
-    "verified": false
+    "human_label": "小型咒符",
+    "verified": true
   },
   {
     "file": "f003_012_blue_544x292_47x26.png",
@@ -920,8 +920,8 @@
     "ocr_conf": 0.66,
     "fuzzy_match": "串珠",
     "fuzzy_score": 0.5,
-    "human_label": "",
-    "verified": false
+    "human_label": "珠寶",
+    "verified": true
   },
   {
     "file": "f003_013_blue_836x182_40x27.png",
@@ -948,8 +948,8 @@
     "ocr_conf": 0.654,
     "fuzzy_match": "戒指",
     "fuzzy_score": 1.0,
-    "human_label": "",
-    "verified": false
+    "human_label": "戒指",
+    "verified": true
   },
   {
     "file": "f003_014_blue_774x91_64x27.png",
@@ -976,8 +976,8 @@
     "ocr_conf": 0.942,
     "fuzzy_match": "次元刃",
     "fuzzy_score": 1.0,
-    "human_label": "",
-    "verified": false
+    "human_label": "次元刃",
+    "verified": true
   },
   {
     "file": "f003_015_blue_756x44_80x27.png",
@@ -1004,8 +1004,8 @@
     "ocr_conf": 0.972,
     "fuzzy_match": "儀禮長矛",
     "fuzzy_score": 1.0,
-    "human_label": "",
-    "verified": false
+    "human_label": "儀禮長矛",
+    "verified": true
   },
   {
     "file": "f003_016_yellow_395x519_63x26.png",
@@ -1032,8 +1032,8 @@
     "ocr_conf": 0.904,
     "fuzzy_match": "護身符",
     "fuzzy_score": 1.0,
-    "human_label": "",
-    "verified": false
+    "human_label": "護身符",
+    "verified": true
   },
   {
     "file": "f003_017_yellow_564x315_47x27.png",
@@ -1060,8 +1060,8 @@
     "ocr_conf": 0.941,
     "fuzzy_match": "戒指",
     "fuzzy_score": 1.0,
-    "human_label": "",
-    "verified": false
+    "human_label": "戒指",
+    "verified": true
   },
   {
     "file": "f003_018_yellow_567x269_63x27.png",
@@ -1088,8 +1088,8 @@
     "ocr_conf": 0.799,
     "fuzzy_match": "護身符",
     "fuzzy_score": 1.0,
-    "human_label": "",
-    "verified": false
+    "human_label": "護身符",
+    "verified": true
   },
   {
     "file": "f003_019_gold_374x495_80x27.png",
@@ -1116,8 +1116,8 @@
     "ocr_conf": 0.993,
     "fuzzy_match": "魔皮長靴",
     "fuzzy_score": 1.0,
-    "human_label": "",
-    "verified": false
+    "human_label": "魔皮長靴",
+    "verified": true
   },
   {
     "file": "f003_020_orange_505x575_36x25.png",
@@ -1144,8 +1144,8 @@
     "ocr_conf": 0,
     "fuzzy_match": "",
     "fuzzy_score": 0,
-    "human_label": "",
-    "verified": false
+    "human_label": "UNKNOWN",
+    "verified": true
   },
   {
     "file": "f005_001_white_43x695_43x23.png",
@@ -1172,8 +1172,8 @@
     "ocr_conf": 0.968,
     "fuzzy_match": "弓矢",
     "fuzzy_score": 1.0,
-    "human_label": "",
-    "verified": false
+    "human_label": "弓矢",
+    "verified": true
   },
   {
     "file": "f005_002_white_755x378_47x27.png",
@@ -1200,8 +1200,8 @@
     "ocr_conf": 0.985,
     "fuzzy_match": "弓矢",
     "fuzzy_score": 1.0,
-    "human_label": "",
-    "verified": false
+    "human_label": "弓矢",
+    "verified": true
   },
   {
     "file": "f005_003_white_638x378_64x26.png",
@@ -1228,8 +1228,8 @@
     "ocr_conf": 0.994,
     "fuzzy_match": "征戰斧",
     "fuzzy_score": 1.0,
-    "human_label": "",
-    "verified": false
+    "human_label": "征戰斧",
+    "verified": true
   },
   {
     "file": "f005_004_white_702x336_113x27.png",
@@ -1256,8 +1256,8 @@
     "ocr_conf": 0.535,
     "fuzzy_match": "弱效生命藥水",
     "fuzzy_score": 0.833,
-    "human_label": "",
-    "verified": false
+    "human_label": "特效生命藥水",
+    "verified": true
   },
   {
     "file": "f005_005_white_794x333_80x26.png",
@@ -1284,8 +1284,8 @@
     "ocr_conf": 0.984,
     "fuzzy_match": "戰鬥長劍",
     "fuzzy_score": 1.0,
-    "human_label": "",
-    "verified": false
+    "human_label": "戰鬥長劍",
+    "verified": true
   },
   {
     "file": "f005_006_white_644x313_112x27.png",
@@ -1312,8 +1312,8 @@
     "ocr_conf": 0.994,
     "fuzzy_match": "強效生命藥水",
     "fuzzy_score": 1.0,
-    "human_label": "",
-    "verified": false
+    "human_label": "強效生命藥水",
+    "verified": true
   },
   {
     "file": "f005_007_white_684x290_113x27.png",
@@ -1340,8 +1340,8 @@
     "ocr_conf": 0.976,
     "fuzzy_match": "特效法力藥水",
     "fuzzy_score": 1.0,
-    "human_label": "",
-    "verified": false
+    "human_label": "特效法力藥水",
+    "verified": true
   },
   {
     "file": "f005_008_white_811x272_63x27.png",
@@ -1368,8 +1368,8 @@
     "ocr_conf": 0.874,
     "fuzzy_match": "完美紅寶石",
     "fuzzy_score": 0.5,
-    "human_label": "",
-    "verified": false
+    "human_label": "寶石",
+    "verified": true
   },
   {
     "file": "f005_009_white_732x267_81x27.png",
@@ -1396,8 +1396,8 @@
     "ocr_conf": 0.997,
     "fuzzy_match": "巨角獸帽",
     "fuzzy_score": 1.0,
-    "human_label": "",
-    "verified": false
+    "human_label": "巨角獸帽",
+    "verified": true
   },
   {
     "file": "f005_010_white_682x244_112x27.png",
@@ -1424,8 +1424,8 @@
     "ocr_conf": 0.997,
     "fuzzy_match": "強效生命藥水",
     "fuzzy_score": 1.0,
-    "human_label": "",
-    "verified": false
+    "human_label": "強效生命藥水",
+    "verified": true
   },
   {
     "file": "f005_011_white_623x221_81x27.png",
@@ -1452,8 +1452,8 @@
     "ocr_conf": 0.996,
     "fuzzy_match": "活力藥水",
     "fuzzy_score": 1.0,
-    "human_label": "",
-    "verified": false
+    "human_label": "活力藥水",
+    "verified": true
   },
   {
     "file": "f005_012_white_626x198_76x27.png",
@@ -1480,8 +1480,8 @@
     "ocr_conf": 0.998,
     "fuzzy_match": "活力藥水",
     "fuzzy_score": 1.0,
-    "human_label": "",
-    "verified": false
+    "human_label": "活力藥水",
+    "verified": true
   },
   {
     "file": "f005_013_white_649x152_49x27.png",
@@ -1508,8 +1508,8 @@
     "ocr_conf": 0.988,
     "fuzzy_match": "護脛",
     "fuzzy_score": 1.0,
-    "human_label": "",
-    "verified": false
+    "human_label": "護脛",
+    "verified": true
   },
   {
     "file": "f005_014_blue_429x523_47x25.png",
@@ -1536,8 +1536,8 @@
     "ocr_conf": 0.512,
     "fuzzy_match": "串珠",
     "fuzzy_score": 0.5,
-    "human_label": "",
-    "verified": false
+    "human_label": "珠寶",
+    "verified": true
   },
   {
     "file": "f005_015_blue_720x359_41x27.png",
@@ -1564,8 +1564,8 @@
     "ocr_conf": 0,
     "fuzzy_match": "",
     "fuzzy_score": 0,
-    "human_label": "",
-    "verified": false
+    "human_label": "戒指",
+    "verified": true
   },
   {
     "file": "f005_016_blue_659x267_64x27.png",
@@ -1592,8 +1592,8 @@
     "ocr_conf": 0.842,
     "fuzzy_match": "次元刃",
     "fuzzy_score": 0.667,
-    "human_label": "",
-    "verified": false
+    "human_label": "次元刃",
+    "verified": true
   },
   {
     "file": "f005_017_blue_640x175_81x27.png",
@@ -1620,8 +1620,8 @@
     "ocr_conf": 0.916,
     "fuzzy_match": "儀禮長矛",
     "fuzzy_score": 1.0,
-    "human_label": "",
-    "verified": false
+    "human_label": "儀禮長矛",
+    "verified": true
   },
   {
     "file": "f005_018_gold_721x221_64x27.png",
@@ -1648,8 +1648,8 @@
     "ocr_conf": 0.995,
     "fuzzy_match": "雙曲弓",
     "fuzzy_score": 1.0,
-    "human_label": "",
-    "verified": false
+    "human_label": "雙曲弓",
+    "verified": true
   },
   {
     "file": "f005_019_gold_735x199_48x26.png",
@@ -1676,8 +1676,8 @@
     "ocr_conf": 0.997,
     "fuzzy_match": "年輕",
     "fuzzy_score": 0.667,
-    "human_label": "",
-    "verified": false
+    "human_label": "輕弩",
+    "verified": true
   },
   {
     "file": "f005_020_orange_811x356_113x26.png",
@@ -1704,8 +1704,8 @@
     "ocr_conf": 0.562,
     "fuzzy_match": "符文：伐克斯",
     "fuzzy_score": 0.833,
-    "human_label": "",
-    "verified": false
+    "human_label": "符文：伐克斯",
+    "verified": true
   },
   {
     "file": "f005_021_orange_720x110_29x21.png",
@@ -1732,8 +1732,8 @@
     "ocr_conf": 0,
     "fuzzy_match": "",
     "fuzzy_score": 0,
-    "human_label": "",
-    "verified": false
+    "human_label": "UNKNOWN",
+    "verified": true
   },
   {
     "file": "f006_001_white_92x271_33x21.png",
@@ -1760,8 +1760,8 @@
     "ocr_conf": 0,
     "fuzzy_match": "",
     "fuzzy_score": 0,
-    "human_label": "",
-    "verified": false
+    "human_label": "UNKNOWN",
+    "verified": true
   },
   {
     "file": "f006_002_blue_92x272_41x24.png",
@@ -1788,8 +1788,8 @@
     "ocr_conf": 0,
     "fuzzy_match": "",
     "fuzzy_score": 0,
-    "human_label": "",
-    "verified": false
+    "human_label": "UNKNOWN",
+    "verified": true
   },
   {
     "file": "f006_003_blue_89x258_38x26.png",
@@ -1816,8 +1816,8 @@
     "ocr_conf": 0,
     "fuzzy_match": "",
     "fuzzy_score": 0,
-    "human_label": "",
-    "verified": false
+    "human_label": "UNKNOWN",
+    "verified": true
   },
   {
     "file": "f006_004_orange_505x492_35x18.png",
@@ -1844,8 +1844,8 @@
     "ocr_conf": 0,
     "fuzzy_match": "",
     "fuzzy_score": 0,
-    "human_label": "",
-    "verified": false
+    "human_label": "UNKNOWN",
+    "verified": true
   },
   {
     "file": "f006_005_orange_562x375_97x46.png",
@@ -1872,8 +1872,8 @@
     "ocr_conf": 0.243,
     "fuzzy_match": "符文：安姆",
     "fuzzy_score": 0.375,
-    "human_label": "",
-    "verified": false
+    "human_label": "符文：烏姆",
+    "verified": true
   },
   {
     "file": "f006_006_orange_467x336_95x27.png",
@@ -1900,8 +1900,8 @@
     "ocr_conf": 0.631,
     "fuzzy_match": "符文：法爾",
     "fuzzy_score": 0.8,
-    "human_label": "",
-    "verified": false
+    "human_label": "符文：法爾",
+    "verified": true
   },
   {
     "file": "f006_007_orange_486x314_95x27.png",
@@ -1928,8 +1928,8 @@
     "ocr_conf": 0.558,
     "fuzzy_match": "符文：藍姆",
     "fuzzy_score": 0.8,
-    "human_label": "",
-    "verified": false
+    "human_label": "符文：藍姆",
+    "verified": true
   },
   {
     "file": "f006_008_orange_523x291_97x27.png",
@@ -1956,8 +1956,8 @@
     "ocr_conf": 0.061,
     "fuzzy_match": "符文：普爾",
     "fuzzy_score": 0.8,
-    "human_label": "",
-    "verified": false
+    "human_label": "符文：普爾",
+    "verified": true
   },
   {
     "file": "f006_009_orange_543x268_97x27.png",
@@ -1984,8 +1984,8 @@
     "ocr_conf": 0.42,
     "fuzzy_match": "符文：馬爾",
     "fuzzy_score": 0.4,
-    "human_label": "",
-    "verified": false
+    "human_label": "符文：馬爾",
+    "verified": true
   },
   {
     "file": "f006_010_orange_429x163_39x26.png",
@@ -2012,8 +2012,8 @@
     "ocr_conf": 0,
     "fuzzy_match": "",
     "fuzzy_score": 0,
-    "human_label": "",
-    "verified": false
+    "human_label": "UNKNOWN",
+    "verified": true
   },
   {
     "file": "f008_001_white_678x418_112x27.png",
@@ -2040,8 +2040,8 @@
     "ocr_conf": 0.782,
     "fuzzy_match": "城鎮傳送之書",
     "fuzzy_score": 1.0,
-    "human_label": "",
-    "verified": false
+    "human_label": "城鎮傳送之書",
+    "verified": true
   },
   {
     "file": "f008_002_blue_700x441_44x27.png",
@@ -2068,8 +2068,8 @@
     "ocr_conf": 0.344,
     "fuzzy_match": "戒指",
     "fuzzy_score": 1.0,
-    "human_label": "",
-    "verified": false
+    "human_label": "戒指",
+    "verified": true
   },
   {
     "file": "f008_003_yellow_985x376_39x24.png",
@@ -2096,8 +2096,8 @@
     "ocr_conf": 0,
     "fuzzy_match": "",
     "fuzzy_score": 0,
-    "human_label": "",
-    "verified": false
+    "human_label": "UNKNOWN",
+    "verified": true
   },
   {
     "file": "f008_004_yellow_716x241_35x25.png",
@@ -2124,8 +2124,8 @@
     "ocr_conf": 0,
     "fuzzy_match": "",
     "fuzzy_score": 0,
-    "human_label": "",
-    "verified": false
+    "human_label": "UNKNOWN",
+    "verified": true
   },
   {
     "file": "f008_005_gold_929x498_60x30.png",
@@ -2152,7 +2152,7 @@
     "ocr_conf": 0,
     "fuzzy_match": "",
     "fuzzy_score": 0,
-    "human_label": "",
-    "verified": false
+    "human_label": "UNKNOWN",
+    "verified": true
   }
 ]
